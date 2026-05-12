@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Windy Webcam</title>
+
+<style>
+
+html, body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    background:#0f172a;
+    font-family:Arial, sans-serif;
+}
+
+#webcam-frame{
+    width:100%;
+    height:100vh;
+    border:none;
+}
+
+.header{
+    position:absolute;
+    top:15px;
+    left:15px;
+    z-index:9999;
+
+    background:rgba(15,23,42,0.85);
+    color:white;
+
+    padding:12px 18px;
+    border-radius:14px;
+
+    backdrop-filter: blur(10px);
+
+    box-shadow:0 4px 20px rgba(0,0,0,0.35);
+}
+
+.header h2{
+    margin:0;
+    font-size:20px;
+}
+
+.header p{
+    margin:5px 0 0 0;
+    font-size:13px;
+    color:#cbd5e1;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    <h2>Windy Webcam</h2>
+    <p>Khlong Ngae Realtime Camera</p>
+</div>
+
+<iframe
+    id="webcam-frame"
+    src="https://www.windy.com/-Webcams/webcams/1732812620"
+    allowfullscreen>
+</iframe>
+
+</body>
+</html>
