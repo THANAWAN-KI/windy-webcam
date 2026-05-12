@@ -1,0 +1,19 @@
+```json id="bq2xms"
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1732812620,
+        "name": "Khlong Ngae",
+        "url": "https://www.windy.com/webcams/1732812620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.43225, 6.74827]
+      }
+    }
+  ]
+}
+```
