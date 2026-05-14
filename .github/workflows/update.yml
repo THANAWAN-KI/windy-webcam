@@ -1,12 +1,12 @@
 import requests
 import json
 
-API_KEY = WPk4yG4RfcFpmWc8GF7nK2aNwFe1w1F8
+API_KEY = "WPk4yG4RfcFpmWc8GF7nK2aNwFe1w1F8"
 
 URL = "https://api.windy.com/api/webcams/v3/list?box=5,97,20,106"
 
 headers = {
-    "x-windy-api-key": API_KEY
+    "x-windy-api-key":  API_KEY
 }
 
 response = requests.get(URL, headers=headers)
