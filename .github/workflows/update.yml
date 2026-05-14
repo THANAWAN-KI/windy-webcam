@@ -1,9 +1,6 @@
 name: Windy CCTV Auto Update
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -11,8 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -22,13 +18,13 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Run update script
+      - name: Run Python
         run: python update_cctv.py
 
-      - name: Commit files
+      - name: Push files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto update Windy CCTV" || exit 0
+          git commit -m "Auto update CCTV" || echo "No changes"
           git push
