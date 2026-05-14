@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "U-Ta Phao",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1793905096",
+        "WEBURL": "https://www.windy.com/webcams/1793905096?radar,6.705,100.433,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.441,
+          6.705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Thung Lung",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1793905099",
+        "WEBURL": "https://www.windy.com/webcams/1793905099?radar,6.807,100.509,12,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.466,
+          6.826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Hat Yai",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1591521761",
+        "WEBURL": "https://www.windy.com/webcams/1591521761?radar,6.975,100.480,13,p:cams,m:dQNaiWC",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.477,
+          6.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "North-west: U-Ta Phao",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1793905095",
+        "WEBURL": "https://www.windy.com/webcams/1793905095?radar,6.984,100.477,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.462,
+          6.989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Kho Hong",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1701262836",
+        "WEBURL": "https://www.windy.com/webcams/1701262836?radar,6.970,100.512,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.496,
+          6.973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Hat Yai",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1732680375",
+        "WEBURL": "https://www.windy.com/webcams/1732680375?radar,7.001,100.462,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.441,
+          7.004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Bang Krasan Subdistrict",
+        "TYPE": "CCTV",
+        "PROVINCE": "Bang Pa-in",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1704280305",
+        "WEBURL": "https://www.windy.com/webcams/1704280305?radar,14.186,100.579,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.557,
+          14.181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Khlong Chik Subdistrict: Asian Highway 1",
+        "TYPE": "CCTV",
+        "PROVINCE": "Bang Pa-in",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1717749116",
+        "WEBURL": "https://www.windy.com/webcams/1717749116?radar,14.221,100.610,14,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.608,
+          14.221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Bang Pradaeng Subdistrict: Highway 347",
+        "TYPE": "CCTV",
+        "PROVINCE": "Bang Pa-in",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1733323346",
+        "WEBURL": "https://www.windy.com/webcams/1733323346?radar,14.237,100.599,12,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.537,
+          14.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Han Sang Subdistrict",
+        "TYPE": "CCTV",
+        "PROVINCE": "Nakhon Luang",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "1720428002",
+        "WEBURL": "https://www.windy.com/webcams/1720428002?radar,14.523,100.518,12,p:cams",
+        "STATUS": "ONLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.519,
+          14.53
+        ]
+      }
+    }
+  ]
+}
