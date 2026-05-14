@@ -1,4 +1,37 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "U-Ta Phao",
+        "STATUS": "ONLINE",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/96/1793905096/current/full/1793905096.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1793905096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.441, 6.705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "Hat Yai",
+        "STATUS": "ONLINE",
+        "TYPE": "CCTV",
+        "PROVINCE": "Songkhla",
+        "COUNTRY": "Thailand",
+        "IMAGEURL": "https://images-webcams.windy.com/61/1591521761/current/full/1591521761.jpg",
+        "WEBURL": "https://www.windy.com/webcams/1591521761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.477, 6.974]
+      }
+    }
+  ]
 }
