@@ -10,11 +10,28 @@ headers = {
 }
 
 response = requests.get(URL, headers=headers)
+
+print(response.text)
+
 data = response.json()
 
 features = []
 
-for cam in data["result"]["webcams"]:
+# เช็กว่ามี webcams จริงไหม
+if "webcams" in data:
+
+    webcams = data["webcams"]
+
+elif "result" in data and "webcams" in data["result"]:
+
+    webcams = data["result"]["webcams"]
+
+else:
+    print("ERROR RESPONSE:")
+    print(data)
+    exit()
+
+for cam in webcams:
 
     webcam_id = str(cam["id"])
 
@@ -26,7 +43,6 @@ for cam in data["result"]["webcams"]:
             "CAMERA": cam.get("title"),
             "STATUS": cam.get("status"),
             "TYPE": "Windy CCTV",
-            "PROVINCE": "",
             "COUNTRY": "Thailand",
             "IMAGEURL": image_url,
             "WEBURL": f"https://www.windy.com/webcams/{webcam_id}"
@@ -48,4 +64,4 @@ geojson = {
 with open("cctv_realtime.geojson", "w", encoding="utf-8") as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
 
-print("GeoJSON updated")
+print("GeoJSON updated successfully")
