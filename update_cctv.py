@@ -1,24 +1,45 @@
+import requests
 import json
 
-webcams = [
-    "1793905096",
-    "1793905099",
-    "1591521761",
-    "1793905095",
-    "1701262836",
-    "1732680375",
-    "1704280305",
-    "1717749116",
-    "1733323346",
-    "1720428002"
-]
+API_KEY = "WPk4yG4RfcFpmWc8GF7nK2aNwFe1w1F8"
+
+URL = "https://api.windy.com/api/webcams/v3/list?box=5,97,20,106&limit=100"
+
+headers = {
+    "x-windy-api-key": API_KEY
+}
+
+response = requests.get(URL, headers=headers)
+
+print(response.text)
+
+data = response.json()
 
 features = []
 
-lat = 13.0
-lon = 100.0
+# รองรับหลาย response
+if "webcams" in data:
+    webcams = data["webcams"]
 
-for webcam_id in webcams:
+elif "result" in data and "webcams" in data["result"]:
+    webcams = data["result"]["webcams"]
+
+else:
+    webcams = []
+
+for cam in webcams:
+
+    webcam_id = str(cam.get("id", ""))
+
+    if webcam_id == "":
+        continue
+
+    title = cam.get("title", "Unknown")
+
+    status = str(cam.get("status", "ONLINE"))
+
+    latitude = cam["location"]["latitude"]
+    longitude = cam["location"]["longitude"]
 
     image_url = f"https://images-webcams.windy.com/{webcam_id[-2:]}/{webcam_id}/current/full/{webcam_id}.jpg"
 
@@ -27,8 +48,8 @@ for webcam_id in webcams:
     features.append({
         "type": "Feature",
         "properties": {
-            "CAMERA": f"Windy Webcam {webcam_id}",
-            "STATUS": "ONLINE",
+            "CAMERA": title,
+            "STATUS": status,
             "TYPE": "Windy CCTV",
             "COUNTRY": "Thailand",
             "IMAGEURL": image_url,
@@ -36,12 +57,12 @@ for webcam_id in webcams:
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [lon, lat]
+            "coordinates": [
+                longitude,
+                latitude
+            ]
         }
     })
-
-    lat += 0.3
-    lon += 0.3
 
 geojson = {
     "type": "FeatureCollection",
@@ -52,3 +73,4 @@ with open("cctv_realtime.geojson", "w", encoding="utf-8") as f:
     json.dump(geojson, f, ensure_ascii=False, indent=2)
 
 print("GeoJSON updated successfully")
+print("TOTAL FEATURES:", len(features))
