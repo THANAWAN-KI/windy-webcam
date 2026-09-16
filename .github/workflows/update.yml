@@ -2,35 +2,33 @@ name: CCTV Auto Update
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
+    env:
+      WINDY_API_KEY: ${{ secrets.WINDY_API_KEY || secrets.CCTV_WINDY_API_KEY || secrets.WINDY_WEBCAMS_API_KEY }}
+      CCTV_RADIUS_KM: "30"
 
     steps:
-      - uses: actions/checkout@v3
-
+      - uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
-
-      - name: Install requests
-        run: pip install requests
-
-      - name: Run Python
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests
+      - name: Update CCTV GeoJSON
         run: python update_cctv.py
-
-      - name: Push GeoJSON
+      - name: Commit updated GeoJSON
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto update CCTV" || echo "No changes"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cctv_windy_updated.geojson
+          git diff --cached --quiet && exit 0
+          git commit -m "Update Windy CCTV near industrial estates"
           git push
