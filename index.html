@@ -1,52 +1,44 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Windy Webcam</title>
-
-<style>
-
-html, body{
-    margin:0;
-    padding:0;
-    width:100%;
-    height:100%;
-    background:#0f172a;
-}
-
-#container{
-    width:100%;
-    height:100vh;
-}
-
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>กล้อง CCTV ใกล้นิคมอุตสาหกรรม</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    html,body,#map{width:100%;height:100%;margin:0}
+    body{font-family:"Noto Sans Thai","Sarabun",Tahoma,sans-serif;background:#eef3f7}
+    .summary{position:absolute;z-index:1000;top:12px;left:50%;transform:translateX(-50%);padding:9px 14px;border-radius:999px;background:#fff;box-shadow:0 4px 18px #0002;font-size:14px;white-space:nowrap}
+    .camera-marker{display:grid;place-items:center;width:30px;height:30px;border:3px solid #fff;border-radius:50%;background:#007fdb;color:#fff;box-shadow:0 2px 8px #0005;font-size:16px}
+    .camera-popup{width:260px;text-align:center;color:#17212b}
+    .camera-popup h3{margin:0 0 4px;font-size:17px}.camera-popup p{margin:3px 0;font-size:13px}.camera-popup img{display:block;width:100%;height:145px;margin:10px 0 6px;border-radius:10px;object-fit:cover;background:#e9eef2}.camera-popup a{display:inline-block;margin-top:7px;padding:7px 12px;border-radius:8px;background:#007fdb;color:#fff;text-decoration:none}.credit{font-size:11px;color:#66717b}.error{color:#b00020}
+    @media(max-width:560px){.summary{top:8px;max-width:calc(100% - 36px);overflow:hidden;text-overflow:ellipsis}.camera-popup{width:220px}.camera-popup img{height:120px}}
+  </style>
 </head>
-
 <body>
+  <div id="summary" class="summary">กำลังโหลดกล้อง CCTV ใกล้นิคมฯ…</div>
+  <div id="map" aria-label="แผนที่กล้อง CCTV ใกล้นิคมอุตสาหกรรม"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map=L.map("map",{preferCanvas:true}).setView([13.2,101.2],6);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
+    const summary=document.getElementById("summary");
+    const safe=value=>String(value??"").replace(/[&<>'"]/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[ch]));
+    const icon=L.divIcon({className:"",html:'<span class="camera-marker" aria-hidden="true">●</span>',iconSize:[36,36],iconAnchor:[18,18],popupAnchor:[0,-16]});
 
-<div id="container">
-
-<a
-name="windy-webcam-timelapse-player"
-data-id="1732812620"
-data-play="day"
-data-loop="0"
-data-auto-play="1"
-data-force-full-screen-on-overlay-play="0"
-data-interactive="1"
-href="https://windy.com/webcams/1732812620"
-target="_blank">
-Khlong Ngae
-</a>
-
-</div>
-
-<script async
-type="text/javascript"
-src="https://webcams.windy.com/webcams/public/embed/v2/script/player.js">
-</script>
-
+    fetch(`cctv_windy_updated.geojson?v=${Date.now()}`,{cache:"no-store"})
+      .then(response=>{if(!response.ok)throw new Error(`HTTP ${response.status}`);return response.json()})
+      .then(data=>{
+        const layer=L.geoJSON(data,{pointToLayer:(feature,latlng)=>L.marker(latlng,{icon}),onEachFeature:(feature,marker)=>{
+          const p=feature.properties||{};
+          const image=p.IMAGEURL?`<a href="${safe(p.WEBURL)}" target="_blank" rel="noopener"><img src="${safe(p.IMAGEURL)}" alt="ภาพล่าสุดจาก ${safe(p.CAMERA)}" loading="lazy" referrerpolicy="no-referrer"></a>`:"";
+          marker.bindPopup(`<div class="camera-popup"><h3>${safe(p.CAMERA||"Windy Webcam")}</h3><p>${safe(p.PROVINCE||"")}</p><p><b>นิคมฯ ใกล้ที่สุด:</b> ${safe(p.NEAREST_ESTATE||"-")}</p><p><b>ระยะทาง:</b> ${safe(p.DISTANCE_KM||0)} กม.</p>${image}<a href="${safe(p.WEBURL)}" target="_blank" rel="noopener">เปิดกล้องบน Windy</a><p class="credit">Webcams provided by <a href="https://www.windy.com/" target="_blank" rel="noopener">windy.com</a></p></div>`,{maxWidth:300});
+        }}).addTo(map);
+        const count=(data.features||[]).length;
+        summary.textContent=`กล้อง CCTV ใกล้นิคมฯ ${count.toLocaleString("th-TH")} จุด · รัศมี ${data.metadata?.radius_km||30} กม.`;
+        if(count&&layer.getBounds().isValid())map.fitBounds(layer.getBounds(),{padding:[35,35],maxZoom:12});
+      })
+      .catch(error=>{summary.classList.add("error");summary.textContent=`โหลดข้อมูลกล้องไม่สำเร็จ: ${error.message}`});
+  </script>
 </body>
 </html>
