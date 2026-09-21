@@ -5,8 +5,8 @@
     "country": "TH",
     "radius_km": 30.0,
     "estate_count": 72,
-    "camera_count": 194,
-    "generated_at": "2026-09-21T07:12:56.908584+00:00"
+    "camera_count": 195,
+    "generated_at": "2026-09-21T14:10:50.718891+00:00"
   },
   "features": [
     {
@@ -23,7 +23,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1",
         "DISTANCE_KM": 25.33,
-        "LAST_UPDATED": "2026-09-21T07:04:08.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:11.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 5",
         "DISTANCE_KM": 10.75,
-        "LAST_UPDATED": "2026-09-21T07:03:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 1.68,
-        "LAST_UPDATED": "2026-09-21T07:04:12.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +95,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.84,
-        "LAST_UPDATED": "2026-09-21T07:04:51.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:07.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +143,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-21T07:04:18.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:08.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.36,
-        "LAST_UPDATED": "2026-09-21T07:03:28.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +191,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-21T07:04:45.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:04.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-21T07:05:17.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +239,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.88,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.42,
-        "LAST_UPDATED": "2026-09-21T07:04:04.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +287,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.66,
-        "LAST_UPDATED": "2026-09-21T07:04:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:08.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.67,
-        "LAST_UPDATED": "2026-09-21T07:03:06.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-21T07:02:49.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-21T07:03:43.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +383,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.83,
-        "LAST_UPDATED": "2026-09-21T07:05:00.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:42.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +407,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.86,
-        "LAST_UPDATED": "2026-09-21T07:03:33.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +431,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.97,
-        "LAST_UPDATED": "2026-09-21T07:04:00.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.99,
-        "LAST_UPDATED": "2026-09-21T07:04:24.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -479,7 +479,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.17,
-        "LAST_UPDATED": "2026-09-21T07:05:27.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.21,
-        "LAST_UPDATED": "2026-09-21T07:03:28.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -527,7 +527,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.29,
-        "LAST_UPDATED": "2026-09-21T07:04:00.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:28.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -551,13 +551,61 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.3,
-        "LAST_UPDATED": "2026-09-21T07:04:40.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:06.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.0668,
           13.68236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682778820",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778820/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682778820",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778820/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
+        "DISTANCE_KM": 15.34,
+        "LAST_UPDATED": "2026-09-21T14:09:42.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06658,
+          13.68288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682778871",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778871/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682778871",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778871/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
+        "DISTANCE_KM": 15.34,
+        "LAST_UPDATED": "2026-09-21T14:06:47.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06656,
+          13.68285
         ]
       }
     },
@@ -575,7 +623,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.46,
-        "LAST_UPDATED": "2026-09-21T07:05:46.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +647,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.68,
-        "LAST_UPDATED": "2026-09-21T07:05:15.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -623,7 +671,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.71,
-        "LAST_UPDATED": "2026-09-21T07:03:39.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +695,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.77,
-        "LAST_UPDATED": "2026-09-21T07:04:43.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +719,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.78,
-        "LAST_UPDATED": "2026-09-21T07:03:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +743,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.89,
-        "LAST_UPDATED": "2026-09-21T07:05:06.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +767,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.92,
-        "LAST_UPDATED": "2026-09-21T07:04:00.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -743,7 +791,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.99,
-        "LAST_UPDATED": "2026-09-21T07:04:02.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:42.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -767,7 +815,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.0,
-        "LAST_UPDATED": "2026-09-21T07:03:42.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +839,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-21T07:04:49.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:45.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +863,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-21T07:05:03.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:40.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +887,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-21T07:05:11.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +911,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-21T07:03:06.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +935,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-21T07:04:36.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +959,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-21T07:05:43.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:03.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -935,7 +983,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-21T07:10:51.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -959,7 +1007,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-21T07:04:50.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +1031,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 8.08,
-        "LAST_UPDATED": "2026-09-21T07:04:16.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:40.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1007,7 +1055,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.14,
-        "LAST_UPDATED": "2026-09-21T07:04:42.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1079,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.15,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1055,7 +1103,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.16,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +1127,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 14.46,
-        "LAST_UPDATED": "2026-09-21T07:04:43.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:35.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1103,7 +1151,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 16.05,
-        "LAST_UPDATED": "2026-09-21T07:03:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1124,7 +1172,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717749116/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717749116",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717749116/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 2.64,
         "LAST_UPDATED": "2026-09-21T02:06:43.000Z"
@@ -1151,7 +1199,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 4.41,
-        "LAST_UPDATED": "2026-09-21T07:04:14.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1223,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 5.43,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1199,7 +1247,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 12.89,
-        "LAST_UPDATED": "2026-09-21T07:05:04.000Z"
+        "LAST_UPDATED": "2026-09-21T13:21:29.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1271,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-09-21T07:02:00.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1247,7 +1295,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 13.93,
-        "LAST_UPDATED": "2026-09-21T07:03:36.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1271,7 +1319,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 22.2,
-        "LAST_UPDATED": "2026-09-21T07:00:46.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1295,7 +1343,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 22.26,
-        "LAST_UPDATED": "2026-09-21T07:10:51.000Z"
+        "LAST_UPDATED": "2026-09-21T13:50:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1319,7 +1367,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางพลี",
         "DISTANCE_KM": 9.65,
-        "LAST_UPDATED": "2026-09-21T07:09:43.000Z"
+        "LAST_UPDATED": "2026-09-21T11:16:07.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1343,7 +1391,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 7.9,
-        "LAST_UPDATED": "2026-09-21T07:09:39.000Z"
+        "LAST_UPDATED": "2026-09-21T14:09:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1415,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 8.43,
-        "LAST_UPDATED": "2026-09-21T07:04:56.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1439,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 8.87,
-        "LAST_UPDATED": "2026-09-21T07:04:26.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1463,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 8.89,
-        "LAST_UPDATED": "2026-09-21T07:10:01.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1439,7 +1487,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมพิจิตร",
         "DISTANCE_KM": 22.38,
-        "LAST_UPDATED": "2026-09-21T07:04:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1511,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมพิจิตร",
         "DISTANCE_KM": 24.55,
-        "LAST_UPDATED": "2026-09-21T07:05:19.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1487,7 +1535,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 3.53,
-        "LAST_UPDATED": "2026-09-21T07:03:32.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:07.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1559,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 3.75,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1535,7 +1583,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 3.78,
-        "LAST_UPDATED": "2026-09-21T07:03:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1559,7 +1607,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 6.07,
-        "LAST_UPDATED": "2026-09-21T07:05:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1583,7 +1631,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 19.42,
-        "LAST_UPDATED": "2026-09-21T07:05:12.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1607,7 +1655,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 24.95,
-        "LAST_UPDATED": "2026-09-21T07:09:47.000Z"
+        "LAST_UPDATED": "2026-09-21T13:50:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1631,7 +1679,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 26.26,
-        "LAST_UPDATED": "2026-09-21T07:10:50.000Z"
+        "LAST_UPDATED": "2026-09-21T13:40:38.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1703,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 27.76,
-        "LAST_UPDATED": "2026-09-21T07:04:17.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:17.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1679,7 +1727,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 7.16,
-        "LAST_UPDATED": "2026-09-21T07:04:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1703,7 +1751,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 9.37,
-        "LAST_UPDATED": "2026-09-21T07:04:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1775,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 10.63,
-        "LAST_UPDATED": "2026-09-21T07:04:32.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1799,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 11.71,
-        "LAST_UPDATED": "2026-09-21T07:03:54.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1775,7 +1823,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.27,
-        "LAST_UPDATED": "2026-09-21T07:04:35.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:26.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1799,7 +1847,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-21T06:44:44.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1823,7 +1871,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.93,
-        "LAST_UPDATED": "2026-09-21T07:03:40.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +1895,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.39,
-        "LAST_UPDATED": "2026-09-21T07:05:01.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1871,7 +1919,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-09-21T07:05:23.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +1943,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.59,
-        "LAST_UPDATED": "2026-09-21T06:34:11.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:18.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1919,7 +1967,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.61,
-        "LAST_UPDATED": "2026-09-21T07:10:49.000Z"
+        "LAST_UPDATED": "2026-09-21T14:10:17.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1943,7 +1991,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.64,
-        "LAST_UPDATED": "2026-09-21T07:04:49.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1967,7 +2015,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 16.27,
-        "LAST_UPDATED": "2026-09-21T07:12:10.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +2039,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 20.97,
-        "LAST_UPDATED": "2026-09-21T07:05:11.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +2063,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 22.32,
-        "LAST_UPDATED": "2026-09-21T07:03:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2039,7 +2087,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 24.56,
-        "LAST_UPDATED": "2026-09-21T07:06:04.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2063,7 +2111,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 25.3,
-        "LAST_UPDATED": "2026-09-21T07:05:11.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2087,7 +2135,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 6.52,
-        "LAST_UPDATED": "2026-09-21T07:05:26.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:03.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2111,7 +2159,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 23.11,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2135,7 +2183,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 29.61,
-        "LAST_UPDATED": "2026-09-21T07:09:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2159,7 +2207,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 6.34,
-        "LAST_UPDATED": "2026-09-21T03:07:52.000Z"
+        "LAST_UPDATED": "2026-09-21T13:50:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2183,7 +2231,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 15.59,
-        "LAST_UPDATED": "2026-09-21T07:03:32.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2207,7 +2255,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 20.96,
-        "LAST_UPDATED": "2026-09-21T07:04:53.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +2279,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 21.42,
-        "LAST_UPDATED": "2026-09-21T07:04:48.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2255,7 +2303,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมลาดกระบัง",
         "DISTANCE_KM": 5.95,
-        "LAST_UPDATED": "2026-09-21T07:03:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +2327,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมลาดกระบัง",
         "DISTANCE_KM": 5.97,
-        "LAST_UPDATED": "2026-09-21T07:05:04.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2303,7 +2351,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 25.97,
-        "LAST_UPDATED": "2026-09-21T07:05:08.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:11.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2327,7 +2375,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสระแก้ว",
         "DISTANCE_KM": 25.09,
-        "LAST_UPDATED": "2026-09-21T07:04:47.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:20.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2351,7 +2399,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 0.11,
-        "LAST_UPDATED": "2026-09-21T07:03:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2375,7 +2423,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 0.9,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:03.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2399,7 +2447,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 1.16,
-        "LAST_UPDATED": "2026-09-21T07:03:50.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +2471,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 5.79,
-        "LAST_UPDATED": "2026-09-21T07:04:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2447,7 +2495,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 6.29,
-        "LAST_UPDATED": "2026-09-21T07:04:51.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2471,7 +2519,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 7.15,
-        "LAST_UPDATED": "2026-09-21T07:05:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2492,10 +2540,10 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1735283843/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1735283843",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1735283843/day",
-        "STATUS": "OFFLINE",
+        "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 7.74,
-        "LAST_UPDATED": "2026-09-20T17:07:03.000Z"
+        "LAST_UPDATED": "2026-09-21T14:08:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2519,7 +2567,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 8.12,
-        "LAST_UPDATED": "2026-09-21T07:03:58.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2543,7 +2591,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 8.6,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +2615,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 9.07,
-        "LAST_UPDATED": "2026-09-21T07:05:32.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2591,7 +2639,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 9.8,
-        "LAST_UPDATED": "2026-09-21T07:05:11.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2615,7 +2663,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 10.11,
-        "LAST_UPDATED": "2026-09-21T07:05:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2639,7 +2687,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 11.12,
-        "LAST_UPDATED": "2026-09-21T07:03:32.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2663,7 +2711,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 12.06,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2687,7 +2735,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 12.87,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2711,7 +2759,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 13.69,
-        "LAST_UPDATED": "2026-09-21T07:04:49.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2735,7 +2783,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 14.04,
-        "LAST_UPDATED": "2026-09-21T07:03:59.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2759,7 +2807,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 15.32,
-        "LAST_UPDATED": "2026-09-21T07:03:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2783,7 +2831,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 16.61,
-        "LAST_UPDATED": "2026-09-21T07:05:59.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2807,7 +2855,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 21.62,
-        "LAST_UPDATED": "2026-09-21T07:06:27.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2831,7 +2879,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 21.76,
-        "LAST_UPDATED": "2026-09-21T06:45:16.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2855,7 +2903,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 21.84,
-        "LAST_UPDATED": "2026-09-21T07:10:50.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2879,7 +2927,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 1.78,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2903,7 +2951,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 1.83,
-        "LAST_UPDATED": "2026-09-21T07:05:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:33.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2927,7 +2975,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.13,
-        "LAST_UPDATED": "2026-09-21T07:04:18.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:34.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2951,7 +2999,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.14,
-        "LAST_UPDATED": "2026-09-21T07:03:46.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2975,7 +3023,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.38,
-        "LAST_UPDATED": "2026-09-21T07:03:55.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2999,7 +3047,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.4,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3023,7 +3071,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.88,
-        "LAST_UPDATED": "2026-09-21T07:04:45.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:17.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3047,7 +3095,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.88,
-        "LAST_UPDATED": "2026-09-21T07:04:46.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3071,7 +3119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 3.17,
-        "LAST_UPDATED": "2026-09-21T07:05:56.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3095,7 +3143,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.15,
-        "LAST_UPDATED": "2026-09-21T07:03:31.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3119,7 +3167,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.26,
-        "LAST_UPDATED": "2026-09-21T07:03:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3143,7 +3191,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.31,
-        "LAST_UPDATED": "2026-09-21T07:02:50.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3167,7 +3215,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.35,
-        "LAST_UPDATED": "2026-09-21T07:05:46.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:38.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3191,7 +3239,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.49,
-        "LAST_UPDATED": "2026-09-21T07:03:33.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3215,7 +3263,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.78,
-        "LAST_UPDATED": "2026-09-21T07:03:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3239,7 +3287,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.85,
-        "LAST_UPDATED": "2026-09-21T07:05:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3263,7 +3311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.87,
-        "LAST_UPDATED": "2026-09-21T07:04:03.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3287,7 +3335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.26,
-        "LAST_UPDATED": "2026-09-21T07:05:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3311,7 +3359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.53,
-        "LAST_UPDATED": "2026-09-21T07:04:34.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:27.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3335,7 +3383,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.72,
-        "LAST_UPDATED": "2026-09-21T07:09:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:08:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3359,7 +3407,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.3,
-        "LAST_UPDATED": "2026-09-21T07:05:17.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:40.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3383,7 +3431,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.34,
-        "LAST_UPDATED": "2026-09-21T07:05:29.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3407,7 +3455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.35,
-        "LAST_UPDATED": "2026-09-21T07:06:01.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3431,7 +3479,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.22,
-        "LAST_UPDATED": "2026-09-21T07:05:17.000Z"
+        "LAST_UPDATED": "2026-09-21T09:47:33.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3455,7 +3503,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-21T07:05:07.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3479,7 +3527,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-21T07:03:30.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3503,7 +3551,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 10.18,
-        "LAST_UPDATED": "2026-09-21T07:04:43.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3524,10 +3572,10 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704280229/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1704280229",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704280229/day",
-        "STATUS": "OFFLINE",
+        "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 12.15,
-        "LAST_UPDATED": "2026-09-21T07:07:56.000Z"
+        "LAST_UPDATED": "2026-09-21T13:30:40.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3548,10 +3596,10 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885753/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1302885753",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885753/day",
-        "STATUS": "OFFLINE",
+        "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 12.15,
-        "LAST_UPDATED": "2026-09-21T07:06:41.000Z"
+        "LAST_UPDATED": "2026-09-21T13:31:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3575,7 +3623,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 13.33,
-        "LAST_UPDATED": "2026-09-21T07:04:08.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3599,7 +3647,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 16.19,
-        "LAST_UPDATED": "2026-09-21T07:04:03.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3623,7 +3671,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 16.19,
-        "LAST_UPDATED": "2026-09-21T07:05:13.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:35.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3647,7 +3695,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 17.64,
-        "LAST_UPDATED": "2026-09-21T07:03:33.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3671,7 +3719,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 17.64,
-        "LAST_UPDATED": "2026-09-21T07:04:51.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3695,7 +3743,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 20.68,
-        "LAST_UPDATED": "2026-09-21T07:12:10.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3719,37 +3767,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 20.73,
-        "LAST_UPDATED": "2026-09-21T07:12:36.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:52.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.41019,
           13.91483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "คอกกระบือ",
-        "WEBCAM_ID": "1671473288",
-        "TYPE": "CCTV",
-        "PROVINCE": "unknown",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671473288/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671473288",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671473288/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
-        "DISTANCE_KM": 4.96,
-        "LAST_UPDATED": "2026-09-20T03:27:47.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.31093,
-          13.57785
         ]
       }
     },
@@ -3767,7 +3791,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 23.94,
-        "LAST_UPDATED": "2026-09-21T07:03:53.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3791,7 +3815,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 24.28,
-        "LAST_UPDATED": "2026-09-21T07:03:37.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3815,7 +3839,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหนองแค",
         "DISTANCE_KM": 1.77,
-        "LAST_UPDATED": "2026-09-21T07:03:58.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:42.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3839,7 +3863,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหนองแค",
         "DISTANCE_KM": 18.62,
-        "LAST_UPDATED": "2026-09-21T07:03:39.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3863,7 +3887,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
         "DISTANCE_KM": 15.11,
-        "LAST_UPDATED": "2026-09-21T07:04:45.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:19.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3887,7 +3911,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
         "DISTANCE_KM": 21.53,
-        "LAST_UPDATED": "2026-09-21T07:12:10.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3911,7 +3935,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะ สมาร์ทซิตี้ ชลบุรี",
         "DISTANCE_KM": 5.78,
-        "LAST_UPDATED": "2026-09-21T07:05:16.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3935,7 +3959,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะ สมาร์ทซิตี้ ชลบุรี",
         "DISTANCE_KM": 10.35,
-        "LAST_UPDATED": "2026-09-21T07:03:52.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3959,7 +3983,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
         "DISTANCE_KM": 15.31,
-        "LAST_UPDATED": "2026-09-21T07:04:50.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:38.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3983,7 +4007,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
         "DISTANCE_KM": 17.6,
-        "LAST_UPDATED": "2026-09-21T07:10:56.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:27.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4007,7 +4031,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 5.7,
-        "LAST_UPDATED": "2026-09-21T07:04:22.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4031,7 +4055,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 5.79,
-        "LAST_UPDATED": "2026-09-21T07:04:54.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:35.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4055,7 +4079,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 7.64,
-        "LAST_UPDATED": "2026-09-21T07:04:26.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4079,7 +4103,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอารยะ",
         "DISTANCE_KM": 0.58,
-        "LAST_UPDATED": "2026-09-21T07:03:41.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:35.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4103,7 +4127,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอาร์ ไอ แอล",
         "DISTANCE_KM": 5.55,
-        "LAST_UPDATED": "2026-09-21T06:34:37.000Z"
+        "LAST_UPDATED": "2026-09-21T13:52:04.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4127,7 +4151,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอาร์ ไอ แอล",
         "DISTANCE_KM": 5.56,
-        "LAST_UPDATED": "2026-09-21T07:04:24.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4151,7 +4175,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเกตเวย์ ซิตี้",
         "DISTANCE_KM": 2.93,
-        "LAST_UPDATED": "2026-09-21T07:05:05.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:26.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4175,7 +4199,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเกตเวย์ ซิตี้",
         "DISTANCE_KM": 20.97,
-        "LAST_UPDATED": "2026-09-21T07:10:01.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4199,7 +4223,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเกตเวย์ ซิตี้",
         "DISTANCE_KM": 22.54,
-        "LAST_UPDATED": "2026-09-21T07:04:51.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4223,7 +4247,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเชีย",
         "DISTANCE_KM": 6.23,
-        "LAST_UPDATED": "2026-09-21T07:03:48.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4247,7 +4271,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเชีย",
         "DISTANCE_KM": 14.39,
-        "LAST_UPDATED": "2026-09-21T07:05:15.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4271,7 +4295,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเซีย (สุวรรณภูมิ)",
         "DISTANCE_KM": 15.65,
-        "LAST_UPDATED": "2026-09-21T07:05:13.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:28.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4295,7 +4319,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเซีย (สุวรรณภูมิ)",
         "DISTANCE_KM": 15.65,
-        "LAST_UPDATED": "2026-09-21T07:04:18.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:42.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4319,7 +4343,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเฮอร์มีส",
         "DISTANCE_KM": 3.45,
-        "LAST_UPDATED": "2026-09-21T07:03:55.000Z"
+        "LAST_UPDATED": "2026-09-21T14:03:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4343,7 +4367,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเฮอร์มีส",
         "DISTANCE_KM": 11.33,
-        "LAST_UPDATED": "2026-09-21T06:53:12.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4367,7 +4391,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 5.97,
-        "LAST_UPDATED": "2026-09-21T07:03:36.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4391,7 +4415,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 5.98,
-        "LAST_UPDATED": "2026-09-21T07:05:05.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:29.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4415,7 +4439,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 15.65,
-        "LAST_UPDATED": "2026-09-21T07:03:35.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4439,7 +4463,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 21.12,
-        "LAST_UPDATED": "2026-09-21T07:04:59.000Z"
+        "LAST_UPDATED": "2026-09-21T14:05:47.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4463,7 +4487,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 28.27,
-        "LAST_UPDATED": "2026-09-21T07:03:35.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4487,7 +4511,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแพรกษา",
         "DISTANCE_KM": 4.49,
-        "LAST_UPDATED": "2026-09-21T07:04:34.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:21.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4511,7 +4535,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแพรกษา",
         "DISTANCE_KM": 10.7,
-        "LAST_UPDATED": "2026-09-21T07:04:05.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4535,7 +4559,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแหลมฉบัง",
         "DISTANCE_KM": 17.17,
-        "LAST_UPDATED": "2026-09-21T07:12:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4559,7 +4583,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแอลพีพี นครสวรรค์",
         "DISTANCE_KM": 23.63,
-        "LAST_UPDATED": "2026-09-21T07:03:35.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4583,7 +4607,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 2.27,
-        "LAST_UPDATED": "2026-09-21T00:06:09.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4607,7 +4631,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 19.59,
-        "LAST_UPDATED": "2026-09-21T07:03:35.000Z"
+        "LAST_UPDATED": "2026-09-21T14:02:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4631,7 +4655,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 21.51,
-        "LAST_UPDATED": "2026-09-21T07:05:24.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -4655,7 +4679,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 22.23,
-        "LAST_UPDATED": "2026-09-21T07:04:21.000Z"
+        "LAST_UPDATED": "2026-09-21T14:04:14.000Z"
       },
       "geometry": {
         "type": "Point",
