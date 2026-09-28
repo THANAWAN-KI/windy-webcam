@@ -5,8 +5,8 @@
     "country": "TH",
     "radius_km": 30.0,
     "estate_count": 72,
-    "camera_count": 174,
-    "generated_at": "2026-09-28T12:43:01.384932+00:00"
+    "camera_count": 158,
+    "generated_at": "2026-09-28T19:50:36.392354+00:00"
   },
   "features": [
     {
@@ -30,30 +30,6 @@
         "coordinates": [
           101.25432,
           13.278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "บ้านค่ายพัฒนา",
-        "WEBCAM_ID": "1644464497",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดระยอง",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1644464497/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1644464497",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1644464497/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมดับบลิวเอชเอ อีสเทิร์นซีบอร์ด 5",
-        "DISTANCE_KM": 10.75,
-        "LAST_UPDATED": "2026-09-27T07:58:24.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.29054,
-          12.76359
         ]
       }
     },
@@ -95,7 +71,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.84,
-        "LAST_UPDATED": "2026-09-28T12:36:04.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:11.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +95,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-28T12:36:39.000Z"
+        "LAST_UPDATED": "2026-09-28T19:45:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-28T12:34:50.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +143,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.36,
-        "LAST_UPDATED": "2026-09-28T12:34:41.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +167,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-28T12:34:36.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +191,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-28T12:36:52.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +215,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.88,
-        "LAST_UPDATED": "2026-09-28T12:36:02.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:04.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +239,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-28T12:36:42.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +263,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-28T12:36:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +287,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.83,
-        "LAST_UPDATED": "2026-09-28T12:37:07.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.86,
-        "LAST_UPDATED": "2026-09-28T12:34:42.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.97,
-        "LAST_UPDATED": "2026-09-28T12:34:55.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:45.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.99,
-        "LAST_UPDATED": "2026-09-28T12:36:26.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:42.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +383,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.17,
-        "LAST_UPDATED": "2026-09-28T12:35:00.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +407,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.21,
-        "LAST_UPDATED": "2026-09-28T12:34:22.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +431,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.29,
-        "LAST_UPDATED": "2026-09-28T12:34:44.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -479,7 +455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.3,
-        "LAST_UPDATED": "2026-09-28T12:36:10.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +479,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-09-28T12:33:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -527,7 +503,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-09-28T12:32:02.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +527,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.46,
-        "LAST_UPDATED": "2026-09-28T12:36:58.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -575,7 +551,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.68,
-        "LAST_UPDATED": "2026-09-28T12:36:10.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:45.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +575,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.71,
-        "LAST_UPDATED": "2026-09-28T12:33:55.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -623,7 +599,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.77,
-        "LAST_UPDATED": "2026-09-28T12:34:24.000Z"
+        "LAST_UPDATED": "2026-09-28T19:41:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +623,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.78,
-        "LAST_UPDATED": "2026-09-28T12:33:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +647,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.89,
-        "LAST_UPDATED": "2026-09-28T12:36:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +671,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.92,
-        "LAST_UPDATED": "2026-09-28T12:36:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +695,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.99,
-        "LAST_UPDATED": "2026-09-28T12:33:55.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -743,7 +719,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.0,
-        "LAST_UPDATED": "2026-09-28T12:36:53.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -767,7 +743,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-28T12:35:36.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +767,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-28T12:33:55.000Z"
+        "LAST_UPDATED": "2026-09-28T19:40:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +791,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-28T12:36:46.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +815,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-28T12:34:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +839,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-28T12:36:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +863,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-28T12:36:41.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:11.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -911,7 +887,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-28T12:36:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -935,37 +911,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-28T12:36:11.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:32.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.07119,
           13.69258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลโพธิ์สามต้น: Highway 32",
-        "WEBCAM_ID": "1748000267",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดพระนครศรีอยุธยา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000267/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000267",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000267/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
-        "DISTANCE_KM": 8.08,
-        "LAST_UPDATED": "2026-09-27T07:58:41.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.54847,
-          14.43288
         ]
       }
     },
@@ -1079,7 +1031,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 16.05,
-        "LAST_UPDATED": "2026-09-28T12:36:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1148,7 +1100,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704110696/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1704110696",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704110696/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 5.43,
         "LAST_UPDATED": "2026-09-28T11:14:28.000Z"
@@ -1164,30 +1116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "ท่าโขลง: Phaholyothin Frontage Road",
-        "WEBCAM_ID": "1748000289",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดปทุมธานี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000289/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000289",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000289/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
-        "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-09-27T07:59:02.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61821,
-          14.08718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CAMERA": "รังสิต: Don Muang Toll Way - Phahonyothin Road - Phahon Yothin Road",
         "WEBCAM_ID": "1717748717",
         "TYPE": "CCTV",
@@ -1196,7 +1124,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717748717/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717748717",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717748717/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 22.2,
         "LAST_UPDATED": "2026-09-28T11:15:06.000Z"
@@ -1343,7 +1271,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 22.64,
-        "LAST_UPDATED": "2026-09-28T12:36:16.000Z"
+        "LAST_UPDATED": "2026-09-28T19:33:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1295,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 26.26,
-        "LAST_UPDATED": "2026-09-28T12:26:28.000Z"
+        "LAST_UPDATED": "2026-09-28T19:33:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1319,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 7.16,
-        "LAST_UPDATED": "2026-09-28T12:36:20.000Z"
+        "LAST_UPDATED": "2026-09-28T19:45:13.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1343,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 9.37,
-        "LAST_UPDATED": "2026-09-28T12:35:22.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1439,7 +1367,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 10.63,
-        "LAST_UPDATED": "2026-09-28T12:34:40.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1391,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 11.71,
-        "LAST_UPDATED": "2026-09-28T12:37:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1487,7 +1415,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.27,
-        "LAST_UPDATED": "2026-09-28T12:34:24.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1511,37 +1439,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-28T12:35:35.000Z"
+        "LAST_UPDATED": "2026-09-28T19:45:03.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.47439,
           6.98724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "กำแพงเพชร",
-        "WEBCAM_ID": "1667559168",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดสงขลา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1667559168/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1667559168",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1667559168/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
-        "DISTANCE_KM": 12.93,
-        "LAST_UPDATED": "2026-09-27T07:56:02.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.32132,
-          7.11811
         ]
       }
     },
@@ -1559,7 +1463,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.39,
-        "LAST_UPDATED": "2026-09-28T12:35:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1583,7 +1487,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-09-28T12:34:34.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:06.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1607,7 +1511,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.59,
-        "LAST_UPDATED": "2026-09-28T12:36:29.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:03.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1631,7 +1535,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.61,
-        "LAST_UPDATED": "2026-09-28T12:37:14.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1559,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.64,
-        "LAST_UPDATED": "2026-09-28T12:37:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:34:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1679,7 +1583,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 16.16,
-        "LAST_UPDATED": "2026-09-28T12:36:20.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:18.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1631,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 17.11,
-        "LAST_UPDATED": "2026-09-28T12:36:30.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:27.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1655,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 20.97,
-        "LAST_UPDATED": "2026-09-28T12:35:12.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1775,7 +1679,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 22.32,
-        "LAST_UPDATED": "2026-09-28T12:35:23.000Z"
+        "LAST_UPDATED": "2026-09-28T19:45:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1799,7 +1703,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 24.56,
-        "LAST_UPDATED": "2026-09-28T12:37:44.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1823,7 +1727,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 25.3,
-        "LAST_UPDATED": "2026-09-28T12:35:42.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1908,30 +1812,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "หลุมดิน: Phet Kasem Road",
-        "WEBCAM_ID": "1748000330",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดราชบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000330/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000330",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000330/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
-        "DISTANCE_KM": 6.34,
-        "LAST_UPDATED": "2026-09-27T07:46:53.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          99.83039,
-          13.58358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CAMERA": "หนองโพ: Phet Kasem Road",
         "WEBCAM_ID": "1717742984",
         "TYPE": "CCTV",
@@ -1964,7 +1844,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704367980/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1704367980",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704367980/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 20.96,
         "LAST_UPDATED": "2026-09-28T11:13:44.000Z"
@@ -2063,7 +1943,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.34,
-        "LAST_UPDATED": "2026-09-28T12:37:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2087,61 +1967,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.35,
-        "LAST_UPDATED": "2026-09-28T12:36:58.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:53.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.2343,
           13.5412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ขุนแก้ว: Borommaratchachonnani Frontage Road",
-        "WEBCAM_ID": "1748000372",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนครปฐม",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000372/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000372",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000372/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
-        "DISTANCE_KM": 25.97,
-        "LAST_UPDATED": "2026-09-27T07:57:08.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.22334,
-          13.77734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "วัฒนานคร: Watthana Nakhon District",
-        "WEBCAM_ID": "1650770040",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดสระแก้ว",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1650770040/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1650770040",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1650770040/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสระแก้ว",
-        "DISTANCE_KM": 25.09,
-        "LAST_UPDATED": "2026-09-27T07:55:37.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.32742,
-          13.77082
         ]
       }
     },
@@ -2156,7 +1988,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744769/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717744769",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744769/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 0.11,
         "LAST_UPDATED": "2026-09-28T10:54:19.000Z"
@@ -2180,7 +2012,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744643/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717744643",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744643/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 0.9,
         "LAST_UPDATED": "2026-09-28T10:55:13.000Z"
@@ -2207,7 +2039,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 1.16,
-        "LAST_UPDATED": "2026-09-28T12:34:54.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2252,7 +2084,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746071/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746071",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746071/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 6.29,
         "LAST_UPDATED": "2026-09-28T10:49:46.000Z"
@@ -2276,7 +2108,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746176/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746176",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746176/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 7.15,
         "LAST_UPDATED": "2026-09-28T10:55:23.000Z"
@@ -2300,7 +2132,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1735283843/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1735283843",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1735283843/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 7.74,
         "LAST_UPDATED": "2026-09-28T11:02:25.000Z"
@@ -2324,7 +2156,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746260/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746260",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746260/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 8.12,
         "LAST_UPDATED": "2026-09-28T10:45:29.000Z"
@@ -2351,7 +2183,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 8.6,
-        "LAST_UPDATED": "2026-09-28T12:37:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2372,7 +2204,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746512/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746512",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746512/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 9.07,
         "LAST_UPDATED": "2026-09-28T10:53:04.000Z"
@@ -2396,7 +2228,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746596/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746596",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746596/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 9.8,
         "LAST_UPDATED": "2026-09-28T10:54:20.000Z"
@@ -2420,7 +2252,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746743/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746743",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746743/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 10.11,
         "LAST_UPDATED": "2026-09-28T10:55:12.000Z"
@@ -2444,7 +2276,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746953/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717746953",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746953/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 11.12,
         "LAST_UPDATED": "2026-09-28T10:55:09.000Z"
@@ -2468,7 +2300,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704429332/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1704429332",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704429332/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 12.06,
         "LAST_UPDATED": "2026-09-28T10:54:30.000Z"
@@ -2492,7 +2324,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717747185/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717747185",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717747185/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 12.87,
         "LAST_UPDATED": "2026-09-28T10:53:30.000Z"
@@ -2516,7 +2348,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717747898/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717747898",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717747898/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 13.69,
         "LAST_UPDATED": "2026-09-28T10:53:51.000Z"
@@ -2540,7 +2372,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1649235596/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1649235596",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1649235596/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 14.04,
         "LAST_UPDATED": "2026-09-28T10:54:36.000Z"
@@ -2588,7 +2420,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717748066/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717748066",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717748066/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 16.61,
         "LAST_UPDATED": "2026-09-28T10:53:19.000Z"
@@ -2615,7 +2447,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 21.62,
-        "LAST_UPDATED": "2026-09-28T12:37:49.000Z"
+        "LAST_UPDATED": "2026-09-28T19:46:56.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2639,7 +2471,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
         "DISTANCE_KM": 21.76,
-        "LAST_UPDATED": "2026-09-28T12:35:25.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2660,7 +2492,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745000/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745000",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745000/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 1.78,
         "LAST_UPDATED": "2026-09-28T10:54:01.000Z"
@@ -2684,7 +2516,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744496/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717744496",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744496/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 1.83,
         "LAST_UPDATED": "2026-09-28T10:53:33.000Z"
@@ -2711,7 +2543,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.13,
-        "LAST_UPDATED": "2026-09-28T12:32:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:47.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2735,7 +2567,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.14,
-        "LAST_UPDATED": "2026-09-28T12:36:25.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:19.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2756,7 +2588,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744287/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717744287",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744287/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.38,
         "LAST_UPDATED": "2026-09-28T10:53:18.000Z"
@@ -2780,7 +2612,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745126/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745126",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745126/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.4,
         "LAST_UPDATED": "2026-09-28T10:53:29.000Z"
@@ -2804,7 +2636,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704110941/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1704110941",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704110941/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.88,
         "LAST_UPDATED": "2026-09-28T10:54:07.000Z"
@@ -2828,7 +2660,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1681269446/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1681269446",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1681269446/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 2.88,
         "LAST_UPDATED": "2026-09-28T10:53:32.000Z"
@@ -2852,7 +2684,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745210/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745210",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745210/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 3.17,
         "LAST_UPDATED": "2026-09-28T10:54:39.000Z"
@@ -2876,7 +2708,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745273/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745273",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745273/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.15,
         "LAST_UPDATED": "2026-09-28T10:54:00.000Z"
@@ -2903,7 +2735,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.26,
-        "LAST_UPDATED": "2026-09-28T12:36:18.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2927,7 +2759,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.31,
-        "LAST_UPDATED": "2026-09-28T12:35:06.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:33.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2951,7 +2783,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.35,
-        "LAST_UPDATED": "2026-09-28T12:36:00.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:44.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2972,7 +2804,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745336/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745336",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745336/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.49,
         "LAST_UPDATED": "2026-09-28T10:53:23.000Z"
@@ -2999,7 +2831,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.78,
-        "LAST_UPDATED": "2026-09-28T12:34:22.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3023,7 +2855,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.85,
-        "LAST_UPDATED": "2026-09-28T12:35:53.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:15.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3047,7 +2879,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 4.87,
-        "LAST_UPDATED": "2026-09-28T12:35:57.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3068,7 +2900,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745903/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717745903",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745903/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.26,
         "LAST_UPDATED": "2026-09-28T10:45:48.000Z"
@@ -3095,7 +2927,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.53,
-        "LAST_UPDATED": "2026-09-28T12:35:07.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3116,7 +2948,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1687081689/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1687081689",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1687081689/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 5.72,
         "LAST_UPDATED": "2026-09-28T10:52:57.000Z"
@@ -3143,7 +2975,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.3,
-        "LAST_UPDATED": "2026-09-28T12:36:05.000Z"
+        "LAST_UPDATED": "2026-09-28T19:44:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3167,7 +2999,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.34,
-        "LAST_UPDATED": "2026-09-28T12:36:15.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:04.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3191,7 +3023,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 8.35,
-        "LAST_UPDATED": "2026-09-28T12:34:34.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3215,7 +3047,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.22,
-        "LAST_UPDATED": "2026-09-28T10:12:59.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3239,7 +3071,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-28T12:36:25.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3263,7 +3095,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-28T12:37:03.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3287,7 +3119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
         "DISTANCE_KM": 10.18,
-        "LAST_UPDATED": "2026-09-28T12:34:20.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:47.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3479,7 +3311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-09-28T12:36:40.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3503,7 +3335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-09-28T12:36:40.000Z"
+        "LAST_UPDATED": "2026-09-28T19:46:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3527,7 +3359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.06,
-        "LAST_UPDATED": "2026-09-28T12:34:46.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3551,61 +3383,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.27,
-        "LAST_UPDATED": "2026-09-28T12:36:42.000Z"
+        "LAST_UPDATED": "2026-09-28T19:45:17.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.35543,
           13.59255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "บางกระทึก: 3414 Phutthamonthon Sai 5 Road",
-        "WEBCAM_ID": "1748000099",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนครปฐม",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000099/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000099",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000099/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
-        "DISTANCE_KM": 23.94,
-        "LAST_UPDATED": "2026-09-27T07:57:27.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.30118,
-          13.75785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "กระทุ่มล้ม",
-        "WEBCAM_ID": "1651308119",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนครปฐม",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1651308119/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1651308119",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1651308119/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
-        "DISTANCE_KM": 24.26,
-        "LAST_UPDATED": "2026-09-27T07:58:04.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.3288,
-          13.76427
         ]
       }
     },
@@ -3636,30 +3420,6 @@
     {
       "type": "Feature",
       "properties": {
-        "CAMERA": "ตำบลสนับทึบ: Phaholyothin Frontage Road",
-        "WEBCAM_ID": "1748000141",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดพระนครศรีอยุธยา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000141/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000141",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000141/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมหนองแค",
-        "DISTANCE_KM": 18.62,
-        "LAST_UPDATED": "2026-09-27T07:55:36.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.78449,
-          14.26501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "CAMERA": "บ้านเพ › ใต้: White stone - Mae Ram Phueng Beach",
         "WEBCAM_ID": "1690597536",
         "TYPE": "CCTV",
@@ -3671,85 +3431,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
         "DISTANCE_KM": 15.11,
-        "LAST_UPDATED": "2026-09-28T12:34:19.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:18.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.38415,
           12.61092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ท่าข้าม: Sukhumvit Frontage Road - Chon Buri By Pass - 34",
-        "WEBCAM_ID": "1748000162",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000162/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1748000162",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000162/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะ สมาร์ทซิตี้ ชลบุรี",
-        "DISTANCE_KM": 5.78,
-        "LAST_UPDATED": "2026-09-27T07:58:59.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.00141,
-          13.48075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "กุฎโง้ง: Ar-Ree, Bangkok",
-        "WEBCAM_ID": "1302885831",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดชลบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885831/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885831",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885831/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะ สมาร์ทซิตี้ ชลบุรี",
-        "DISTANCE_KM": 10.35,
-        "LAST_UPDATED": "2026-09-27T07:56:52.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.11825,
-          13.42771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แสนสุข: U-ru-phong, Bangkok",
-        "WEBCAM_ID": "1302885704",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดชลบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885704/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885704",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885704/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
-        "DISTANCE_KM": 15.31,
-        "LAST_UPDATED": "2026-09-27T07:57:56.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.94543,
-          13.29625
         ]
       }
     },
@@ -3767,7 +3455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
         "DISTANCE_KM": 17.6,
-        "LAST_UPDATED": "2026-09-28T12:34:50.000Z"
+        "LAST_UPDATED": "2026-09-28T19:42:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -3839,37 +3527,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 7.64,
-        "LAST_UPDATED": "2026-09-28T12:34:42.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:38.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.63994,
           13.66665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ทุ่งสะเดา",
-        "WEBCAM_ID": "1723012703",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1723012703/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1723012703",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1723012703/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเกตเวย์ ซิตี้",
-        "DISTANCE_KM": 2.93,
-        "LAST_UPDATED": "2026-09-27T07:55:35.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.30409,
-          13.60562
         ]
       }
     },
@@ -3884,7 +3548,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717792335/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717792335",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717792335/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเกตเวย์ ซิตี้",
         "DISTANCE_KM": 22.54,
         "LAST_UPDATED": "2026-09-28T11:14:34.000Z"
@@ -3911,61 +3575,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเชีย",
         "DISTANCE_KM": 6.23,
-        "LAST_UPDATED": "2026-09-28T12:36:39.000Z"
+        "LAST_UPDATED": "2026-09-28T19:43:36.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.06729,
           12.67501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "โป่ง: Bang Lamung District",
-        "WEBCAM_ID": "1650769336",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดชลบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1650769336/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1650769336",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1650769336/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเฮอร์มีส",
-        "DISTANCE_KM": 3.45,
-        "LAST_UPDATED": "2026-09-27T07:58:05.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.01853,
-          12.91795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ห้วยใหญ่",
-        "WEBCAM_ID": "1671707485",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดชลบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671707485/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671707485",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671707485/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเฮอร์มีส",
-        "DISTANCE_KM": 11.33,
-        "LAST_UPDATED": "2026-09-27T07:58:29.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.01166,
-          12.8418
         ]
       }
     },
@@ -3980,7 +3596,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1718372522/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1718372522",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1718372522/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 15.65,
         "LAST_UPDATED": "2026-09-28T11:15:05.000Z"
@@ -4004,7 +3620,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717830743/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717830743",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717830743/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 21.12,
         "LAST_UPDATED": "2026-09-28T11:13:27.000Z"
@@ -4124,7 +3740,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717792670/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717792670",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717792670/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 19.59,
         "LAST_UPDATED": "2026-09-28T11:15:14.000Z"
@@ -4148,7 +3764,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717792460/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1717792460",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717792460/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมไฮเทค กบินทร์",
         "DISTANCE_KM": 21.51,
         "LAST_UPDATED": "2026-09-28T11:14:06.000Z"
