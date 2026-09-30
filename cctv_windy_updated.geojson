@@ -4,35 +4,11 @@
     "source": "Windy Webcams API",
     "country": "TH",
     "radius_km": 30.0,
-    "estate_count": 72,
-    "camera_count": 123,
-    "generated_at": "2026-09-30T00:30:55.386327+00:00"
+    "estate_count": 70,
+    "camera_count": 130,
+    "generated_at": "2026-09-30T05:54:22.673958+00:00"
   },
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "หนองไผ่แก้ว: Highway 331 - Asian Highway 19",
-        "WEBCAM_ID": "1747917947",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดชลบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1747917947/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1747917947",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1747917947/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมดับบลิวเอชเอ ชลบุรี 1",
-        "DISTANCE_KM": 25.33,
-        "LAST_UPDATED": "2026-09-30T00:29:05.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.25432,
-          13.278
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -47,85 +23,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 1.68,
-        "LAST_UPDATED": "2026-09-30T00:27:08.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:19.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.00455,
           13.57567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1666409234",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1666409234/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1666409234",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1666409234/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 12.84,
-        "LAST_UPDATED": "2026-09-30T00:26:56.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.0499,
-          13.6662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682777982",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777982/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682777982",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777982/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-30T00:23:22.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.05007,
-          13.66631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682778020",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778020/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682778020",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778020/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-30T00:26:13.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.05007,
-          13.66629
         ]
       }
     },
@@ -143,7 +47,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.36,
-        "LAST_UPDATED": "2026-09-30T00:27:00.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +71,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-30T00:26:12.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +95,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-09-30T00:26:22.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.88,
-        "LAST_UPDATED": "2026-09-30T00:28:20.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +143,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-30T00:26:13.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:13.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +167,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-09-30T00:28:55.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:24.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +191,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.83,
-        "LAST_UPDATED": "2026-09-30T00:27:03.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +215,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.86,
-        "LAST_UPDATED": "2026-09-30T00:26:11.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +239,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.97,
-        "LAST_UPDATED": "2026-09-30T00:27:15.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +263,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.99,
-        "LAST_UPDATED": "2026-09-30T00:27:06.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +287,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.17,
-        "LAST_UPDATED": "2026-09-30T00:23:26.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:08.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.21,
-        "LAST_UPDATED": "2026-09-30T00:24:01.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.29,
-        "LAST_UPDATED": "2026-09-30T00:28:48.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.3,
-        "LAST_UPDATED": "2026-09-30T00:27:17.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -479,7 +383,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-09-30T00:24:24.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +407,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-09-30T00:26:11.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -527,301 +431,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.46,
-        "LAST_UPDATED": "2026-09-30T00:26:26.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:50.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.06605,
           13.68447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682778973",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778973/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682778973",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778973/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.68,
-        "LAST_UPDATED": "2026-09-30T00:26:57.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06466,
-          13.68747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779011",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779011/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779011",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779011/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.71,
-        "LAST_UPDATED": "2026-09-30T00:26:13.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06469,
-          13.68774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779054",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779054/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779054",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779054/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.77,
-        "LAST_UPDATED": "2026-09-30T00:23:36.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.0643,
-          13.68858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779089",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779089/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779089",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779089/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.78,
-        "LAST_UPDATED": "2026-09-30T00:23:37.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06419,
-          13.6887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779133",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779133/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779133",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779133/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.89,
-        "LAST_UPDATED": "2026-09-30T00:26:30.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06386,
-          13.69002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779168",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779168/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779168",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779168/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.92,
-        "LAST_UPDATED": "2026-09-30T00:26:13.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06383,
-          13.6903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779215",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779215/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779215",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779215/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 15.99,
-        "LAST_UPDATED": "2026-09-30T00:24:02.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06357,
-          13.69118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682779258",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779258/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682779258",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779258/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 16.0,
-        "LAST_UPDATED": "2026-09-30T00:29:00.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06382,
-          13.69116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682777318",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777318/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682777318",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777318/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-30T00:26:32.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06362,
-          13.69415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682777235",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777235/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682777235",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777235/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-09-30T00:23:36.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.0633,
-          13.6944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682777372",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777372/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682777372",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777372/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-30T00:26:12.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.06348,
-          13.6944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ฉะเชิงเทรา",
-        "WEBCAM_ID": "1682777416",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดฉะเชิงเทรา",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777416/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682777416",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777416/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
-        "DISTANCE_KM": 16.3,
-        "LAST_UPDATED": "2026-09-30T00:26:12.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.0635,
-          13.69437
         ]
       }
     },
@@ -839,7 +455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-30T00:26:12.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +479,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-09-30T00:26:23.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +503,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-30T00:26:32.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -911,13 +527,373 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-09-30T00:28:47.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:14.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           101.07119,
           13.69258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1666409234",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1666409234/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1666409234",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1666409234/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 12.83,
+        "LAST_UPDATED": "2026-09-30T05:51:09.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0499,
+          13.6662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682777982",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777982/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682777982",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777982/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 12.85,
+        "LAST_UPDATED": "2026-09-30T05:49:29.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.05007,
+          13.66631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682778020",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778020/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682778020",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778020/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 12.85,
+        "LAST_UPDATED": "2026-09-30T05:49:47.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.05007,
+          13.66629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682778973",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682778973/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682778973",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682778973/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.68,
+        "LAST_UPDATED": "2026-09-30T05:51:02.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06466,
+          13.68747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779011",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779011/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779011",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779011/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.71,
+        "LAST_UPDATED": "2026-09-30T05:50:10.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06469,
+          13.68774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779054",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779054/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779054",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779054/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.76,
+        "LAST_UPDATED": "2026-09-30T05:49:40.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0643,
+          13.68858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779089",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779089/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779089",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779089/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.76,
+        "LAST_UPDATED": "2026-09-30T05:49:31.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06419,
+          13.6887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779133",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779133/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779133",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779133/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.87,
+        "LAST_UPDATED": "2026-09-30T05:50:17.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06386,
+          13.69002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779168",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779168/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779168",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779168/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.89,
+        "LAST_UPDATED": "2026-09-30T05:49:47.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06383,
+          13.6903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779215",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779215/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779215",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779215/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.96,
+        "LAST_UPDATED": "2026-09-30T05:49:45.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06357,
+          13.69118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682779258",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682779258/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682779258",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682779258/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 15.97,
+        "LAST_UPDATED": "2026-09-30T05:51:23.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06382,
+          13.69116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682777318",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777318/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682777318",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777318/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 16.24,
+        "LAST_UPDATED": "2026-09-30T05:51:10.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06362,
+          13.69415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682777235",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777235/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682777235",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777235/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 16.24,
+        "LAST_UPDATED": "2026-09-30T05:49:57.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0633,
+          13.6944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682777372",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777372/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682777372",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777372/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 16.25,
+        "LAST_UPDATED": "2026-09-30T05:49:45.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.06348,
+          13.6944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ฉะเชิงเทรา",
+        "WEBCAM_ID": "1682777416",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดฉะเชิงเทรา",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682777416/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682777416",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682777416/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
+        "DISTANCE_KM": 16.25,
+        "LAST_UPDATED": "2026-09-30T05:50:13.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0635,
+          13.69437
         ]
       }
     },
@@ -935,7 +911,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.14,
-        "LAST_UPDATED": "2026-09-30T00:27:45.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:18.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -959,7 +935,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.15,
-        "LAST_UPDATED": "2026-09-30T00:27:08.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:08.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -983,13 +959,37 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมนครหลวง",
         "DISTANCE_KM": 10.16,
-        "LAST_UPDATED": "2026-09-30T00:27:39.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:28.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.50798,
           14.523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงคลองขวาง: Rama IX Tool Gate, Bangkok",
+        "WEBCAM_ID": "1302885735",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885735/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885735",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885735/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 13.86,
+        "LAST_UPDATED": "2026-09-30T05:50:54.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58769,
+          13.75273
         ]
       }
     },
@@ -1007,13 +1007,37 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 14.46,
-        "LAST_UPDATED": "2026-09-30T00:28:40.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:18.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.68753,
           13.93284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงรัชดาภิเษก",
+        "WEBCAM_ID": "1793910210",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793910210/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793910210",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793910210/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 14.6,
+        "LAST_UPDATED": "2026-09-30T05:51:11.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57001,
+          13.79345
         ]
       }
     },
@@ -1031,13 +1055,253 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 16.05,
-        "LAST_UPDATED": "2026-09-30T00:23:42.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:05.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.62682,
           13.92684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงสนามบิน",
+        "WEBCAM_ID": "1682773993",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682773993/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1682773993",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682773993/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 17.42,
+        "LAST_UPDATED": "2026-09-30T05:50:49.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60589,
+          13.92767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงพญาไท: Sirat Expressway",
+        "WEBCAM_ID": "1671473779",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671473779/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671473779",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671473779/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 17.85,
+        "LAST_UPDATED": "2026-09-30T05:50:30.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53969,
+          13.7949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงพญาไท",
+        "WEBCAM_ID": "1671473910",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671473910/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671473910",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671473910/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 17.86,
+        "LAST_UPDATED": "2026-09-30T05:51:21.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53966,
+          13.79456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงจตุจักร",
+        "WEBCAM_ID": "1715574315",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715574315/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1715574315",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715574315/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 18.11,
+        "LAST_UPDATED": "2026-09-30T05:51:18.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5393,
+          13.83038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงวงศ์สว่าง",
+        "WEBCAM_ID": "1715947925",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715947925/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1715947925",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715947925/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 18.14,
+        "LAST_UPDATED": "2026-09-30T05:50:26.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53909,
+          13.8308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงวงศ์สว่าง",
+        "WEBCAM_ID": "1715607178",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715607178/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1715607178",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715607178/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 18.26,
+        "LAST_UPDATED": "2026-09-30T05:49:48.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53786,
+          13.83051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงวงศ์สว่าง",
+        "WEBCAM_ID": "1671471857",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671471857/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671471857",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671471857/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 19.27,
+        "LAST_UPDATED": "2026-09-30T05:49:24.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52796,
+          13.82774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงวงศ์สว่าง",
+        "WEBCAM_ID": "1715574776",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715574776/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1715574776",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715574776/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 19.29,
+        "LAST_UPDATED": "2026-09-30T05:49:20.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52797,
+          13.82861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงวงศ์สว่าง",
+        "WEBCAM_ID": "1671471694",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671471694/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671471694",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671471694/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 19.31,
+        "LAST_UPDATED": "2026-09-30T05:49:26.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52777,
+          13.82869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงคลองขวาง: Phayathai, Bangkok",
+        "WEBCAM_ID": "1302885774",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885774/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885774",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885774/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 19.95,
+        "LAST_UPDATED": "2026-09-30T05:51:10.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52564,
+          13.75985
         ]
       }
     },
@@ -1055,13 +1319,85 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 22.01,
-        "LAST_UPDATED": "2026-09-30T00:28:15.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:25.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.62576,
           13.98641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "รังสิต: Rangsit City Municipality Office",
+        "WEBCAM_ID": "1731006038",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดปทุมธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1731006038/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1731006038",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1731006038/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 22.82,
+        "LAST_UPDATED": "2026-09-30T05:30:40.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60943,
+          13.98705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "รังสิต",
+        "WEBCAM_ID": "1697620951",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดปทุมธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1697620951/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1697620951",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1697620951/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 23.02,
+        "LAST_UPDATED": "2026-09-30T05:49:43.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60475,
+          13.98677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ตำบลไทรม้า: Rattanathibet Rd - Rattanathibet Road",
+        "WEBCAM_ID": "1719507089",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดนนทบุรี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1719507089/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1719507089",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1719507089/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
+        "DISTANCE_KM": 27.23,
+        "LAST_UPDATED": "2026-09-30T05:50:07.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4624,
+          13.87172
         ]
       }
     },
@@ -1079,7 +1415,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 2.64,
-        "LAST_UPDATED": "2026-09-30T00:27:57.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:34.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1103,13 +1439,61 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางปะอิน",
         "DISTANCE_KM": 4.41,
-        "LAST_UPDATED": "2026-09-30T00:29:13.000Z"
+        "LAST_UPDATED": "2026-09-30T05:47:34.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.55666,
           14.18439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "ศาลาลำดวน › เหนือ: Suwannason Road",
+        "WEBCAM_ID": "1793905637",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดสระแก้ว",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793905637/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793905637",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793905637/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ่อทอง 33",
+        "DISTANCE_KM": 12.74,
+        "LAST_UPDATED": "2026-09-30T05:51:30.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.97676,
+          13.90264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "หนองไผ่แก้ว: Highway 331 - Asian Highway 19",
+        "WEBCAM_ID": "1747917947",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดชลบุรี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1747917947/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1747917947",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1747917947/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านบึง",
+        "DISTANCE_KM": 1.04,
+        "LAST_UPDATED": "2026-09-30T05:50:48.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.25432,
+          13.278
         ]
       }
     },
@@ -1127,7 +1511,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 7.9,
-        "LAST_UPDATED": "2026-09-30T00:26:42.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1151,7 +1535,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบ้านหว้า",
         "DISTANCE_KM": 8.43,
-        "LAST_UPDATED": "2026-09-30T00:27:13.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:27.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1559,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมพิจิตร",
         "DISTANCE_KM": 24.55,
-        "LAST_UPDATED": "2026-09-30T00:28:17.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:29.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1199,85 +1583,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
         "DISTANCE_KM": 3.53,
-        "LAST_UPDATED": "2026-09-30T00:21:21.000Z"
+        "LAST_UPDATED": "2026-09-30T05:48:10.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           99.01995,
           18.5705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แม่เหียะ",
-        "WEBCAM_ID": "1694169692",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดเชียงใหม่",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1694169692/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1694169692",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1694169692/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
-        "DISTANCE_KM": 19.42,
-        "LAST_UPDATED": "2026-09-30T00:28:40.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.9627,
-          18.74811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "เชียงใหม่ › ตะวันออก: Wat Chetawan",
-        "WEBCAM_ID": "1793916381",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดเชียงใหม่",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793916381/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1793916381",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793916381/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
-        "DISTANCE_KM": 22.64,
-        "LAST_UPDATED": "2026-09-30T00:29:07.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.99439,
-          18.78967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "เชียงใหม่",
-        "WEBCAM_ID": "1623054222",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดเชียงใหม่",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1623054222/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1623054222",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1623054222/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคเหนือ",
-        "DISTANCE_KM": 26.26,
-        "LAST_UPDATED": "2026-09-30T00:26:28.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.9535,
-          18.8115
         ]
       }
     },
@@ -1292,7 +1604,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1701481054/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1701481054",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1701481054/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 7.16,
         "LAST_UPDATED": "2026-09-29T17:12:21.000Z"
@@ -1319,7 +1631,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 9.37,
-        "LAST_UPDATED": "2026-09-30T00:28:31.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1343,7 +1655,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 10.63,
-        "LAST_UPDATED": "2026-09-30T00:28:09.000Z"
+        "LAST_UPDATED": "2026-09-30T05:44:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1679,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 11.71,
-        "LAST_UPDATED": "2026-09-30T00:04:17.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1703,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.27,
-        "LAST_UPDATED": "2026-09-30T00:28:41.000Z"
+        "LAST_UPDATED": "2026-09-30T05:52:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1727,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-09-30T00:23:28.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1439,7 +1751,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.39,
-        "LAST_UPDATED": "2026-09-30T00:27:28.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1775,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-09-30T00:28:50.000Z"
+        "LAST_UPDATED": "2026-09-30T05:31:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1487,7 +1799,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.59,
-        "LAST_UPDATED": "2026-09-30T00:28:14.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1823,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.61,
-        "LAST_UPDATED": "2026-09-30T00:28:45.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1535,7 +1847,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.64,
-        "LAST_UPDATED": "2026-09-30T00:17:19.000Z"
+        "LAST_UPDATED": "2026-09-30T05:41:15.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1559,7 +1871,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 16.16,
-        "LAST_UPDATED": "2026-09-30T00:28:22.000Z"
+        "LAST_UPDATED": "2026-09-30T05:11:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1583,7 +1895,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 16.27,
-        "LAST_UPDATED": "2026-09-30T00:27:04.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1607,7 +1919,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 17.11,
-        "LAST_UPDATED": "2026-09-30T00:28:35.000Z"
+        "LAST_UPDATED": "2026-09-30T05:43:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1628,7 +1940,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1615558653/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1615558653",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1615558653/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 20.97,
         "LAST_UPDATED": "2026-09-29T17:22:58.000Z"
@@ -1655,7 +1967,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 22.32,
-        "LAST_UPDATED": "2026-09-30T00:07:26.000Z"
+        "LAST_UPDATED": "2026-09-30T05:30:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1676,7 +1988,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1617853383/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1617853383",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1617853383/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 24.56,
         "LAST_UPDATED": "2026-09-29T17:02:32.000Z"
@@ -1700,7 +2012,7 @@
         "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793873395/original.jpg?v=2",
         "WEBURL": "https://windy.com/webcams/1793873395",
         "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793873395/day",
-        "STATUS": "ONLINE",
+        "STATUS": "OFFLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 25.3,
         "LAST_UPDATED": "2026-09-29T17:33:04.000Z"
@@ -1727,7 +2039,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 6.52,
-        "LAST_UPDATED": "2026-09-30T00:27:08.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:25.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +2063,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 23.11,
-        "LAST_UPDATED": "2026-09-30T00:26:54.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:13.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1775,7 +2087,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมมหาราชนคร",
         "DISTANCE_KM": 29.61,
-        "LAST_UPDATED": "2026-09-30T00:27:03.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1799,7 +2111,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 15.59,
-        "LAST_UPDATED": "2026-09-30T00:24:02.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:33.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1823,7 +2135,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมราชบุรี",
         "DISTANCE_KM": 21.42,
-        "LAST_UPDATED": "2026-09-30T00:27:44.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:54.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +2159,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมลาดกระบัง",
         "DISTANCE_KM": 5.95,
-        "LAST_UPDATED": "2026-09-30T00:26:51.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:24.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1871,7 +2183,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมลาดกระบัง",
         "DISTANCE_KM": 5.97,
-        "LAST_UPDATED": "2026-09-30T00:27:08.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +2207,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.34,
-        "LAST_UPDATED": "2026-09-30T00:27:02.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1919,709 +2231,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.35,
-        "LAST_UPDATED": "2026-09-30T00:23:38.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:31.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.2343,
           13.5412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงรัชดาภิเษก",
-        "WEBCAM_ID": "1793910210",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793910210/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1793910210",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793910210/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 1.16,
-        "LAST_UPDATED": "2026-09-30T00:26:59.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.57001,
-          13.79345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงคลองขวาง: Rama IX Tool Gate, Bangkok",
-        "WEBCAM_ID": "1302885735",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885735/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885735",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885735/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 5.79,
-        "LAST_UPDATED": "2026-09-30T00:26:33.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.58769,
-          13.75273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงรัชดาภิเษก",
-        "WEBCAM_ID": "1594821686",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1594821686/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1594821686",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1594821686/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 8.6,
-        "LAST_UPDATED": "2026-09-30T00:26:21.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55874,
-          13.71996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน",
-        "WEBCAM_ID": "1682773993",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1682773993/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1682773993",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1682773993/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 15.32,
-        "LAST_UPDATED": "2026-09-30T00:26:30.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.60589,
-          13.92767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "รังสิต",
-        "WEBCAM_ID": "1697620951",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดปทุมธานี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1697620951/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1697620951",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1697620951/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 21.62,
-        "LAST_UPDATED": "2026-09-30T00:23:22.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.60475,
-          13.98677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "รังสิต: Rangsit City Municipality Office",
-        "WEBCAM_ID": "1731006038",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดปทุมธานี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1731006038/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1731006038",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1731006038/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก A",
-        "DISTANCE_KM": 21.76,
-        "LAST_UPDATED": "2026-09-30T00:17:09.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.60943,
-          13.98705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงพญาไท: Sirat Expressway",
-        "WEBCAM_ID": "1671473779",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671473779/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671473779",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671473779/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 2.13,
-        "LAST_UPDATED": "2026-09-30T00:26:19.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.53969,
-          13.7949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงพญาไท",
-        "WEBCAM_ID": "1671473910",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671473910/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671473910",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671473910/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 2.14,
-        "LAST_UPDATED": "2026-09-30T00:28:53.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.53966,
-          13.79456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงจตุจักร",
-        "WEBCAM_ID": "1715574315",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715574315/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1715574315",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715574315/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.26,
-        "LAST_UPDATED": "2026-09-30T00:26:46.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.5393,
-          13.83038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงวงศ์สว่าง",
-        "WEBCAM_ID": "1715947925",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715947925/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1715947925",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715947925/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.31,
-        "LAST_UPDATED": "2026-09-30T00:26:10.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.53909,
-          13.8308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงวงศ์สว่าง",
-        "WEBCAM_ID": "1715607178",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715607178/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1715607178",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715607178/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.35,
-        "LAST_UPDATED": "2026-09-30T00:26:16.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.53786,
-          13.83051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงวงศ์สว่าง",
-        "WEBCAM_ID": "1671471857",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671471857/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671471857",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671471857/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.78,
-        "LAST_UPDATED": "2026-09-29T20:04:00.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.52796,
-          13.82774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงวงศ์สว่าง",
-        "WEBCAM_ID": "1715574776",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1715574776/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1715574776",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1715574776/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.85,
-        "LAST_UPDATED": "2026-09-29T20:04:14.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.52797,
-          13.82861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงวงศ์สว่าง",
-        "WEBCAM_ID": "1671471694",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671471694/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671471694",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671471694/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 4.87,
-        "LAST_UPDATED": "2026-09-29T20:04:22.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.52777,
-          13.82869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงคลองขวาง: Phayathai, Bangkok",
-        "WEBCAM_ID": "1302885774",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885774/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885774",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885774/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 5.53,
-        "LAST_UPDATED": "2026-09-30T00:27:00.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.52564,
-          13.75985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลุมพินี",
-        "WEBCAM_ID": "1671468630",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671468630/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671468630",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671468630/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 8.3,
-        "LAST_UPDATED": "2026-09-30T00:26:48.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55211,
-          13.72302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงทุ่งมหาเมฆ: ิbangkok",
-        "WEBCAM_ID": "1567917670",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1567917670/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1567917670",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1567917670/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 8.34,
-        "LAST_UPDATED": "2026-09-30T00:26:19.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55248,
-          13.72259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงทุ่งมหาเมฆ",
-        "WEBCAM_ID": "1671472371",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671472371/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1671472371",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671472371/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 8.35,
-        "LAST_UPDATED": "2026-09-30T00:26:19.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.54129,
-          13.72433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงคลองขวาง: Ramkhamhaeng, Bangkok 2",
-        "WEBCAM_ID": "1302885716",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885716/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885716",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885716/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 9.22,
-        "LAST_UPDATED": "2026-09-29T20:04:11.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.51743,
-          13.72511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสีลม › ตะวันตก: North Sathon Road - Saphan Taksin Public Park",
-        "WEBCAM_ID": "1302885744",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885744/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885744",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885744/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-30T00:26:56.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.51608,
-          13.71852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสีลม: Makkasan, Bangkok",
-        "WEBCAM_ID": "1302885568",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885568/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885568",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885568/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 9.93,
-        "LAST_UPDATED": "2026-09-30T00:27:13.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.51593,
-          13.71863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงคลองขวาง: Rama IX Exit, Bangkok",
-        "WEBCAM_ID": "1302885713",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885713/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1302885713",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885713/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 10.18,
-        "LAST_UPDATED": "2026-09-30T00:23:38.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.52029,
-          13.71402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลไทรม้า: Rattanathibet Rd - Rattanathibet Road",
-        "WEBCAM_ID": "1719507089",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนนทบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1719507089/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1719507089",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1719507089/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 13.33,
-        "LAST_UPDATED": "2026-09-30T00:26:33.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.4624,
-          13.87172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลบางม่วง: Kanchanaphisek Road - Outer Service Road",
-        "WEBCAM_ID": "1717752896",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนนทบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717752896/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717752896",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717752896/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 16.19,
-        "LAST_UPDATED": "2026-09-30T00:27:45.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.41313,
-          13.82967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลบางม่วง: Kanchanaphisek Road - Outer Service Road",
-        "WEBCAM_ID": "1717752938",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนนทบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717752938/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717752938",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717752938/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 16.19,
-        "LAST_UPDATED": "2026-09-30T00:27:52.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.41313,
-          13.82967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงบางไผ่: Kanchanaphisek Rd",
-        "WEBCAM_ID": "1720425776",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1720425776/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1720425776",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1720425776/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 17.64,
-        "LAST_UPDATED": "2026-09-30T00:27:47.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.40583,
-          13.74304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงบางไผ่: Kanchanaphisek Rd",
-        "WEBCAM_ID": "1720425734",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1720425734/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1720425734",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1720425734/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 17.64,
-        "LAST_UPDATED": "2026-09-30T00:26:49.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.40583,
-          13.74304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลพิมลราช",
-        "WEBCAM_ID": "1687081333",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนนทบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1687081333/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1687081333",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1687081333/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 20.68,
-        "LAST_UPDATED": "2026-09-30T00:26:54.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.41031,
-          13.91432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "ตำบลพิมลราช: Kanchanaphisek Road - Outer Service Road",
-        "WEBCAM_ID": "1717752749",
-        "TYPE": "CCTV",
-        "PROVINCE": "จังหวัดนนทบุรี",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717752749/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717752749",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717752749/day",
-        "STATUS": "ONLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสำนักงานใหญ่ (วิภาวดี) ตึก B",
-        "DISTANCE_KM": 20.73,
-        "LAST_UPDATED": "2026-09-30T00:28:07.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.41019,
-          13.91483
         ]
       }
     },
@@ -2639,7 +2255,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-09-30T00:26:23.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2663,7 +2279,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-09-30T00:26:25.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:33.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2687,7 +2303,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.06,
-        "LAST_UPDATED": "2026-09-30T00:26:36.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:03.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2711,13 +2327,61 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.27,
-        "LAST_UPDATED": "2026-09-30T00:27:14.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:14.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.35543,
           13.59255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงบางไผ่: Kanchanaphisek Rd",
+        "WEBCAM_ID": "1720425776",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1720425776/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1720425776",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1720425776/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
+        "DISTANCE_KM": 22.86,
+        "LAST_UPDATED": "2026-09-30T05:52:13.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40583,
+          13.74304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงบางไผ่: Kanchanaphisek Rd",
+        "WEBCAM_ID": "1720425734",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1720425734/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1720425734",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1720425734/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
+        "DISTANCE_KM": 22.86,
+        "LAST_UPDATED": "2026-09-30T05:50:49.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40583,
+          13.74304
         ]
       }
     },
@@ -2735,7 +2399,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
         "DISTANCE_KM": 15.11,
-        "LAST_UPDATED": "2026-09-30T00:23:37.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2759,7 +2423,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
         "DISTANCE_KM": 17.6,
-        "LAST_UPDATED": "2026-09-30T00:24:00.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2783,7 +2447,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 5.7,
-        "LAST_UPDATED": "2026-09-30T00:28:42.000Z"
+        "LAST_UPDATED": "2026-09-30T05:43:44.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2807,7 +2471,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 5.79,
-        "LAST_UPDATED": "2026-09-30T00:29:06.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2831,13 +2495,517 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 7.64,
-        "LAST_UPDATED": "2026-09-30T00:26:36.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:15.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.63994,
           13.66665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงรัชดาภิเษก",
+        "WEBCAM_ID": "1594821686",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1594821686/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1594821686",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1594821686/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 16.53,
+        "LAST_UPDATED": "2026-09-30T05:50:30.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55874,
+          13.71996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงทุ่งมหาเมฆ: ิbangkok",
+        "WEBCAM_ID": "1567917670",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1567917670/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1567917670",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1567917670/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 17.25,
+        "LAST_UPDATED": "2026-09-30T05:50:24.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55248,
+          13.72259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงลุมพินี",
+        "WEBCAM_ID": "1671468630",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671468630/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671468630",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671468630/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 17.3,
+        "LAST_UPDATED": "2026-09-30T05:51:29.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55211,
+          13.72302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงทุ่งมหาเมฆ",
+        "WEBCAM_ID": "1671472371",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1671472371/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1671472371",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1671472371/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 18.47,
+        "LAST_UPDATED": "2026-09-30T05:50:45.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54129,
+          13.72433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงคลองขวาง: Rama IX Exit, Bangkok",
+        "WEBCAM_ID": "1302885713",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885713/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885713",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885713/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 20.48,
+        "LAST_UPDATED": "2026-09-30T05:49:31.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52029,
+          13.71402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงคลองขวาง: Ramkhamhaeng, Bangkok 2",
+        "WEBCAM_ID": "1302885716",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885716/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885716",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885716/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 21.01,
+        "LAST_UPDATED": "2026-09-30T05:49:20.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51743,
+          13.72511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงสีลม › ตะวันตก: North Sathon Road - Saphan Taksin Public Park",
+        "WEBCAM_ID": "1302885744",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885744/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885744",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885744/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 21.01,
+        "LAST_UPDATED": "2026-09-30T05:51:37.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51608,
+          13.71852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แขวงสีลม: Makkasan, Bangkok",
+        "WEBCAM_ID": "1302885568",
+        "TYPE": "CCTV",
+        "PROVINCE": "กรุงเทพมหานคร",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1302885568/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1302885568",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1302885568/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
+        "DISTANCE_KM": 21.03,
+        "LAST_UPDATED": "2026-09-30T05:51:21.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51593,
+          13.71863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี: Asian Highway 15 - Nittayo Road - Highway 22",
+        "WEBCAM_ID": "1748000521",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1748000521/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1748000521",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1748000521/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 6.95,
+        "LAST_UPDATED": "2026-09-30T05:50:05.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.86978,
+          17.36369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "บ้านจั่น › ตะวันออกเฉียงใต้: ทางแยกต่างระดับบ้านจั่น (อุโมงค์ทางลอด สะพานข้ามแยก และ วงเวียน) (ในอนาคต)",
+        "WEBCAM_ID": "1793907262",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793907262/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793907262",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793907262/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 9.41,
+        "LAST_UPDATED": "2026-09-30T05:51:21.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.81554,
+          17.36483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี › ตะวันตก: Mueang Thong Charoensri Market",
+        "WEBCAM_ID": "1793904913",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793904913/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793904913",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793904913/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 11.5,
+        "LAST_UPDATED": "2026-09-30T05:51:28.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.81968,
+          17.39072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี: Udon Thani Municipality Stadium",
+        "WEBCAM_ID": "1793904915",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793904915/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793904915",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793904915/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 12.51,
+        "LAST_UPDATED": "2026-09-30T05:51:22.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.80995,
+          17.39574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี › ตะวันออก: McDonald's branch UD Town Drive through",
+        "WEBCAM_ID": "1793904209",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793904209/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793904209",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793904209/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 13.18,
+        "LAST_UPDATED": "2026-09-30T05:50:41.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.80393,
+          17.39907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี › ตะวันออก: Thahan Road",
+        "WEBCAM_ID": "1793907264",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793907264/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793907264",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793907264/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 13.23,
+        "LAST_UPDATED": "2026-09-30T05:51:02.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7973,
+          17.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี › ตะวันออกเฉียงใต้: Thongyai Road - Pajaksinlapacom Road",
+        "WEBCAM_ID": "1793903656",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793903656/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793903656",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793903656/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 13.67,
+        "LAST_UPDATED": "2026-09-30T05:51:24.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.80377,
+          17.40436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี: CentralPlaza Udonthani",
+        "WEBCAM_ID": "1793906515",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793906515/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793906515",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793906515/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 13.9,
+        "LAST_UPDATED": "2026-09-30T05:51:20.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.79979,
+          17.40427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี › ตะวันออกเฉียงใต้: Srisook Road - เรือนจำกลางจังหวัดอุดรธานี - Makkhaeng",
+        "WEBCAM_ID": "1793916406",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793916406/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793916406",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793916406/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 14.98,
+        "LAST_UPDATED": "2026-09-30T05:51:19.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.78523,
+          17.40595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "อุดรธานี: แยกชลประทาน (แยกไดโนเสาร์)",
+        "WEBCAM_ID": "1793906514",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดอุดรธานี",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793906514/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793906514",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793906514/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
+        "DISTANCE_KM": 15.2,
+        "LAST_UPDATED": "2026-09-30T05:50:11.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7919,
+          17.41332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "แม่เหียะ",
+        "WEBCAM_ID": "1694169692",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดเชียงใหม่",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1694169692/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1694169692",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1694169692/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเวิลด์ (ลำพูน)",
+        "DISTANCE_KM": 18.04,
+        "LAST_UPDATED": "2026-09-30T05:51:14.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9627,
+          18.74811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "เชียงใหม่ › ตะวันออก: Wat Chetawan",
+        "WEBCAM_ID": "1793916381",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดเชียงใหม่",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1793916381/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1793916381",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1793916381/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเวิลด์ (ลำพูน)",
+        "DISTANCE_KM": 21.35,
+        "LAST_UPDATED": "2026-09-30T05:43:30.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.99439,
+          18.78967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CAMERA": "เชียงใหม่",
+        "WEBCAM_ID": "1623054222",
+        "TYPE": "CCTV",
+        "PROVINCE": "จังหวัดเชียงใหม่",
+        "COUNTRY": "ประเทศไทย",
+        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1623054222/original.jpg?v=2",
+        "WEBURL": "https://windy.com/webcams/1623054222",
+        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1623054222/day",
+        "STATUS": "ONLINE",
+        "NEAREST_ESTATE": "นิคมอุตสาหกรรมเวิลด์ (ลำพูน)",
+        "DISTANCE_KM": 24.91,
+        "LAST_UPDATED": "2026-09-30T05:30:06.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9535,
+          18.8115
         ]
       }
     },
@@ -2855,7 +3023,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเชีย",
         "DISTANCE_KM": 6.23,
-        "LAST_UPDATED": "2026-09-30T00:26:12.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2879,7 +3047,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแก่งคอย",
         "DISTANCE_KM": 28.27,
-        "LAST_UPDATED": "2026-09-30T00:28:27.000Z"
+        "LAST_UPDATED": "2026-09-30T05:51:21.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2903,7 +3071,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแพรกษา",
         "DISTANCE_KM": 4.49,
-        "LAST_UPDATED": "2026-09-30T00:24:01.000Z"
+        "LAST_UPDATED": "2026-09-30T05:49:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2927,7 +3095,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแอลพีพี นครสวรรค์",
         "DISTANCE_KM": 23.63,
-        "LAST_UPDATED": "2026-09-30T00:23:53.000Z"
+        "LAST_UPDATED": "2026-09-30T05:50:05.000Z"
       },
       "geometry": {
         "type": "Point",
