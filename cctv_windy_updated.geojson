@@ -5,8 +5,8 @@
     "country": "TH",
     "radius_km": 30.0,
     "estate_count": 70,
-    "camera_count": 120,
-    "generated_at": "2026-10-08T21:37:21.690207+00:00"
+    "camera_count": 97,
+    "generated_at": "2026-10-09T01:23:59.696702+00:00"
   },
   "features": [
     {
@@ -23,7 +23,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.36,
-        "LAST_UPDATED": "2026-10-08T21:36:15.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:06.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-10-08T21:34:44.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:41.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.37,
-        "LAST_UPDATED": "2026-10-08T21:36:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +95,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 13.88,
-        "LAST_UPDATED": "2026-10-08T21:36:34.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.42,
-        "LAST_UPDATED": "2026-10-08T21:35:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +143,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-10-08T21:36:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:17.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.81,
-        "LAST_UPDATED": "2026-10-08T21:35:47.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -191,7 +191,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.83,
-        "LAST_UPDATED": "2026-10-08T21:30:31.000Z"
+        "LAST_UPDATED": "2026-10-09T01:13:31.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.86,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +239,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.97,
-        "LAST_UPDATED": "2026-10-08T21:36:17.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 14.99,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +287,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.17,
-        "LAST_UPDATED": "2026-10-08T21:34:51.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +311,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.21,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +335,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.29,
-        "LAST_UPDATED": "2026-10-08T21:36:44.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:21.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +359,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.3,
-        "LAST_UPDATED": "2026-10-08T21:34:50.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +383,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-10-08T21:35:08.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:04.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +407,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.34,
-        "LAST_UPDATED": "2026-10-08T21:35:43.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +431,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 15.46,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +455,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-10-08T21:33:13.000Z"
+        "LAST_UPDATED": "2026-10-09T01:17:45.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -479,7 +479,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.4,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -527,7 +527,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 1",
         "DISTANCE_KM": 16.52,
-        "LAST_UPDATED": "2026-10-08T21:33:13.000Z"
+        "LAST_UPDATED": "2026-10-09T01:17:45.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +551,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 12.83,
-        "LAST_UPDATED": "2026-10-08T21:35:19.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:05.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -575,7 +575,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 12.85,
-        "LAST_UPDATED": "2026-10-08T21:36:08.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +599,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 12.85,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -623,7 +623,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.68,
-        "LAST_UPDATED": "2026-10-08T21:36:22.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -647,7 +647,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.71,
-        "LAST_UPDATED": "2026-10-08T21:36:42.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +671,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.76,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +695,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.76,
-        "LAST_UPDATED": "2026-10-08T21:35:18.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:55.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +719,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.87,
-        "LAST_UPDATED": "2026-10-08T21:35:37.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:57.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -743,7 +743,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.89,
-        "LAST_UPDATED": "2026-10-08T21:36:09.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:47.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -767,7 +767,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.96,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +791,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 15.97,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +815,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 16.24,
-        "LAST_UPDATED": "2026-10-08T21:36:29.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +839,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 16.24,
-        "LAST_UPDATED": "2026-10-08T21:36:17.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -863,7 +863,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 16.25,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +887,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมทีเอฟดี 2",
         "DISTANCE_KM": 16.25,
-        "LAST_UPDATED": "2026-10-08T21:34:50.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -911,541 +911,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 14.6,
-        "LAST_UPDATED": "2026-10-08T20:55:44.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:10.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.57001,
           13.79345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงจอมพล: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717744769",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744769/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717744769",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744769/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.54,
-        "LAST_UPDATED": "2026-10-07T16:40:12.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56097,
-          13.79744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสามเสนใน: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717744643",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744643/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717744643",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744643/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.56,
-        "LAST_UPDATED": "2026-10-07T16:49:29.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56144,
-          13.78931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงจตุจักร: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745000",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745000/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745000",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745000/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.73,
-        "LAST_UPDATED": "2026-10-07T16:43:22.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55945,
-          13.81332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงจตุจักร: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745126",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745126/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745126",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745126/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.87,
-        "LAST_UPDATED": "2026-10-07T16:49:39.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55859,
-          13.81888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงตลาดบางเขน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746260",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746260/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746260",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746260/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.96,
-        "LAST_UPDATED": "2026-10-07T16:50:24.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.5731,
-          13.86922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงตลาดบางเขน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746512",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746512/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746512",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746512/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 15.98,
-        "LAST_UPDATED": "2026-10-07T16:43:22.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.57743,
-          13.87707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงตลาดบางเขน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746176",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746176/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746176",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746176/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.0,
-        "LAST_UPDATED": "2026-10-07T16:47:55.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56878,
-          13.86103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงตลาดบางเขน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746596",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746596/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746596",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746596/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.02,
-        "LAST_UPDATED": "2026-10-07T16:39:34.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.58076,
-          13.88307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงจตุจักร: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745210",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745210/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745210",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745210/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.03,
-        "LAST_UPDATED": "2026-10-07T16:40:39.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55805,
-          13.82582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงตลาดบางเขน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746743",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746743/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746743",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746743/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.06,
-        "LAST_UPDATED": "2026-10-07T16:45:58.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.58217,
-          13.88567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลาดยาว: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717746071",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746071/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746071",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746071/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.09,
-        "LAST_UPDATED": "2026-10-07T16:47:55.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56481,
-          13.85365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสามเสนใน: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717744496",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744496/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717744496",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744496/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.12,
-        "LAST_UPDATED": "2026-10-07T16:40:00.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55735,
-          13.781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717746953",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717746953/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717746953",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717746953/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.18,
-        "LAST_UPDATED": "2026-10-07T16:50:09.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.587,
-          13.89382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลาดยาว",
-        "WEBCAM_ID": "1687081689",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1687081689/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1687081689",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1687081689/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.2,
-        "LAST_UPDATED": "2026-10-07T16:40:19.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.56199,
-          13.84871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลาดยาว: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745273",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745273/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745273",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745273/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-10-07T16:40:15.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55726,
-          13.83463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลาดยาว: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745903",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745903/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745903",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745903/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.29,
-        "LAST_UPDATED": "2026-10-07T16:40:35.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55981,
-          13.84467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงลาดยาว: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717745336",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717745336/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717745336",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717745336/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.36,
-        "LAST_UPDATED": "2026-10-07T16:49:55.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55732,
-          13.83772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน",
-        "WEBCAM_ID": "1704429332",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1704429332/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1704429332",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1704429332/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.41,
-        "LAST_UPDATED": "2026-10-07T16:49:33.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.59083,
-          13.90151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสามเสนใน: Vibhavadi Rangsit Road - Don Muang Toll Way",
-        "WEBCAM_ID": "1717744287",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717744287/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717744287",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717744287/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.46,
-        "LAST_UPDATED": "2026-10-07T16:47:55.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.55499,
-          13.77635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717747185",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717747185/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717747185",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717747185/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.59,
-        "LAST_UPDATED": "2026-10-07T16:47:55.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.59477,
-          13.90804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717747898",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717747898/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717747898",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717747898/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.85,
-        "LAST_UPDATED": "2026-10-07T16:49:45.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.59824,
-          13.91464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน: สนามบินดอนเมือง - Don Mueang International Airport",
-        "WEBCAM_ID": "1649235596",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1649235596/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1649235596",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1649235596/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 16.95,
-        "LAST_UPDATED": "2026-10-07T16:40:34.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.59997,
-          13.91742
         ]
       }
     },
@@ -1463,7 +935,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 17.85,
-        "LAST_UPDATED": "2026-10-08T21:36:29.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:46.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1487,37 +959,13 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 17.86,
-        "LAST_UPDATED": "2026-10-08T21:34:44.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           100.53966,
           13.79456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CAMERA": "แขวงสนามบิน: Don Muang Toll Way - Vibhavadi Rangsit Road",
-        "WEBCAM_ID": "1717748066",
-        "TYPE": "CCTV",
-        "PROVINCE": "กรุงเทพมหานคร",
-        "COUNTRY": "ประเทศไทย",
-        "IMAGEURL": "https://imgproxy.windy.com/_/preview/plain/current/1717748066/original.jpg?v=2",
-        "WEBURL": "https://windy.com/webcams/1717748066",
-        "PLAYERURL": "https://webcams.windy.com/webcams/public/embed/player/1717748066/day",
-        "STATUS": "OFFLINE",
-        "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
-        "DISTANCE_KM": 17.98,
-        "LAST_UPDATED": "2026-10-07T16:49:25.000Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.61166,
-          13.93797
         ]
       }
     },
@@ -1535,7 +983,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 18.11,
-        "LAST_UPDATED": "2026-10-08T20:01:32.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1559,7 +1007,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 18.14,
-        "LAST_UPDATED": "2026-10-08T20:02:34.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:50.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1583,7 +1031,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 18.26,
-        "LAST_UPDATED": "2026-10-08T20:01:31.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1679,7 +1127,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 19.95,
-        "LAST_UPDATED": "2026-10-08T21:35:07.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:52.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1703,7 +1151,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 22.01,
-        "LAST_UPDATED": "2026-10-08T21:30:31.000Z"
+        "LAST_UPDATED": "2026-10-09T01:17:02.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1175,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 22.2,
-        "LAST_UPDATED": "2026-10-08T21:27:43.000Z"
+        "LAST_UPDATED": "2026-10-09T01:22:12.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1199,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 22.82,
-        "LAST_UPDATED": "2026-10-08T21:35:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1775,7 +1223,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมบางชัน",
         "DISTANCE_KM": 23.02,
-        "LAST_UPDATED": "2026-10-08T21:34:48.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1799,7 +1247,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 7.16,
-        "LAST_UPDATED": "2026-10-08T20:55:04.000Z"
+        "LAST_UPDATED": "2026-10-09T01:11:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1823,7 +1271,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 11.21,
-        "LAST_UPDATED": "2026-10-08T20:44:19.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:39.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +1295,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 11.71,
-        "LAST_UPDATED": "2026-10-08T21:26:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:23.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1871,7 +1319,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.27,
-        "LAST_UPDATED": "2026-10-08T21:35:56.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1895,7 +1343,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 12.86,
-        "LAST_UPDATED": "2026-10-08T21:26:03.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:21.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1919,7 +1367,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.39,
-        "LAST_UPDATED": "2026-10-08T21:36:25.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1943,7 +1391,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 13.76,
-        "LAST_UPDATED": "2026-10-08T21:35:21.000Z"
+        "LAST_UPDATED": "2026-10-09T01:10:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1967,7 +1415,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 15.64,
-        "LAST_UPDATED": "2026-10-08T21:36:05.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:38.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +1439,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 16.16,
-        "LAST_UPDATED": "2026-10-08T21:36:30.000Z"
+        "LAST_UPDATED": "2026-10-09T01:11:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +1463,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 17.11,
-        "LAST_UPDATED": "2026-10-08T21:25:31.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2039,7 +1487,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 20.97,
-        "LAST_UPDATED": "2026-10-08T21:25:32.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:30.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2063,7 +1511,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 22.32,
-        "LAST_UPDATED": "2026-10-08T21:35:57.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2087,7 +1535,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 24.56,
-        "LAST_UPDATED": "2026-10-08T21:26:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:24.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2111,7 +1559,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมภาคใต้จังหวัดสงขลา",
         "DISTANCE_KM": 25.3,
-        "LAST_UPDATED": "2026-10-08T21:26:29.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:27.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2135,7 +1583,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.34,
-        "LAST_UPDATED": "2026-10-08T21:35:31.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2159,7 +1607,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสมุทรสาคร",
         "DISTANCE_KM": 0.35,
-        "LAST_UPDATED": "2026-10-08T21:36:06.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:22.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2183,7 +1631,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2207,7 +1655,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.03,
-        "LAST_UPDATED": "2026-10-08T21:35:38.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:16.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +1679,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.06,
-        "LAST_UPDATED": "2026-10-08T21:35:08.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2255,7 +1703,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมสินสาคร",
         "DISTANCE_KM": 5.27,
-        "LAST_UPDATED": "2026-10-08T21:36:14.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +1727,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมหลักชัยเมืองยาง",
         "DISTANCE_KM": 15.11,
-        "LAST_UPDATED": "2026-10-08T21:35:07.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2303,7 +1751,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอมตะซิตี้ ชลบุรี",
         "DISTANCE_KM": 17.6,
-        "LAST_UPDATED": "2026-10-08T21:35:21.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:53.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2327,7 +1775,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 7.64,
-        "LAST_UPDATED": "2026-10-08T21:35:50.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:19.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2351,7 +1799,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 16.53,
-        "LAST_UPDATED": "2026-10-08T21:36:27.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2375,7 +1823,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 17.25,
-        "LAST_UPDATED": "2026-10-08T21:34:02.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:48.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2399,7 +1847,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 17.3,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:49.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2423,7 +1871,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 18.47,
-        "LAST_UPDATED": "2026-10-08T21:35:48.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2447,7 +1895,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 20.48,
-        "LAST_UPDATED": "2026-10-08T21:35:00.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:59.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2495,7 +1943,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 21.01,
-        "LAST_UPDATED": "2026-10-08T21:36:10.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2519,7 +1967,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอัญธานี",
         "DISTANCE_KM": 21.03,
-        "LAST_UPDATED": "2026-10-08T21:34:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:51.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2543,7 +1991,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 9.41,
-        "LAST_UPDATED": "2026-10-08T21:35:08.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:36.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2567,7 +2015,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 11.5,
-        "LAST_UPDATED": "2026-10-08T21:36:09.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:10.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2591,7 +2039,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 13.18,
-        "LAST_UPDATED": "2026-10-08T21:36:08.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:32.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2615,7 +2063,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 13.23,
-        "LAST_UPDATED": "2026-10-08T21:35:50.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:58.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2639,7 +2087,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 13.67,
-        "LAST_UPDATED": "2026-10-08T21:36:12.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:47.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2663,7 +2111,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 13.9,
-        "LAST_UPDATED": "2026-10-08T21:36:29.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2687,7 +2135,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 14.33,
-        "LAST_UPDATED": "2026-10-08T21:34:50.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:20.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2711,7 +2159,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 14.56,
-        "LAST_UPDATED": "2026-10-08T21:35:15.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:09.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2735,7 +2183,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 14.98,
-        "LAST_UPDATED": "2026-10-08T21:35:42.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:14.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2759,7 +2207,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมอุดรธานี",
         "DISTANCE_KM": 15.2,
-        "LAST_UPDATED": "2026-10-08T21:35:37.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:38.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2783,7 +2231,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเวิลด์ (ลำพูน)",
         "DISTANCE_KM": 21.35,
-        "LAST_UPDATED": "2026-10-08T21:36:38.000Z"
+        "LAST_UPDATED": "2026-10-09T01:10:37.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2807,7 +2255,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเวิลด์ (ลำพูน)",
         "DISTANCE_KM": 24.91,
-        "LAST_UPDATED": "2026-10-08T21:15:04.000Z"
+        "LAST_UPDATED": "2026-10-09T01:20:15.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2831,7 +2279,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเอเชีย",
         "DISTANCE_KM": 6.23,
-        "LAST_UPDATED": "2026-10-08T21:34:49.000Z"
+        "LAST_UPDATED": "2026-10-09T01:19:43.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2855,7 +2303,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมเฮอร์มีส",
         "DISTANCE_KM": 18.17,
-        "LAST_UPDATED": "2026-10-08T21:13:21.000Z"
+        "LAST_UPDATED": "2026-10-09T01:16:01.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2879,7 +2327,7 @@
         "STATUS": "ONLINE",
         "NEAREST_ESTATE": "นิคมอุตสาหกรรมแหลมฉบัง",
         "DISTANCE_KM": 17.17,
-        "LAST_UPDATED": "2026-10-08T21:36:11.000Z"
+        "LAST_UPDATED": "2026-10-09T01:21:49.000Z"
       },
       "geometry": {
         "type": "Point",
